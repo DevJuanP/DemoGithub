@@ -36,13 +36,15 @@
 						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
 						<_theDiagram type="r">
 							<IHandle type="e">
-								<_hm2Class type="a">IDiagram</_hm2Class>
-								<_hname type="a">Estructura general del proyecto</_hname>
-								<_hid type="a">GUID 6d1e2504-ac76-447c-ac6c-add615fd9eae</_hid>
+								<_hm2Class type="a">IUCDiagram</_hm2Class>
+								<_hfilename type="a">.\DemoGithub_rpy\MCU.sbsx</_hfilename>
+								<_hsubsystem type="a">MCU</_hsubsystem>
+								<_hname type="a">Diagrama general de CU</_hname>
+								<_hid type="a">GUID 222f6c44-5172-4d60-9025-9e9d3e56344d</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">1300 829 </_DownRight>
+						<_UpLeft type="a">12 52 </_UpLeft>
+						<_DownRight type="a">1131 766 </_DownRight>
 						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
 						<m_bIsActiveView type="a">1</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -66,13 +68,15 @@
 						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
 						<_theDiagram type="r">
 							<IHandle type="e">
-								<_hm2Class type="a">IStructureDiagram</_hm2Class>
-								<_hname type="a">Structure1</_hname>
-								<_hid type="a">GUID 45dd265f-68ab-442f-bade-5f9e5aaf7335</_hid>
+								<_hm2Class type="a">IUCDiagram</_hm2Class>
+								<_hfilename type="a">.\DemoGithub_rpy\pedidos.sbsx</_hfilename>
+								<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
+								<_hname type="a">DCU_pedidos</_hname>
+								<_hid type="a">GUID 7dd619db-4327-4c85-bb8d-65610679d407</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">1300 829 </_DownRight>
+						<_UpLeft type="a">144 0 </_UpLeft>
+						<_DownRight type="a">1167 652 </_DownRight>
 						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
