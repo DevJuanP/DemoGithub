@@ -2,9 +2,9 @@
 <RhapsodyArchive>
 	<MagicNumber></MagicNumber>
 	<CODE-PAGE>1252</CODE-PAGE>
-	<version>110.0.2</version>
+	<version>110.0.1</version>
 	<lang>C++</lang>
-	<BuildNo>202504251049</BuildNo>
+	<BuildNo>202408271326</BuildNo>
 	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
 	
 	<RHAPSODY-MODEL>
@@ -12,10 +12,10 @@
 			<_id type="a">GUID c7d47271-f108-48ac-af33-9b9792da0109</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">pedidos</_name>
-			<_modifiedTimeWeak type="a">7.28.2021::6:54:14</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::6:54:59</_modifiedTime>
+			<_modifiedTimeWeak type="a">7.28.2021::18:28:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::19:14:3</_modifiedTime>
 			<_lastID type="a">10</_lastID>
-			<weakCGTime type="a">7.28.2021::6:54:14</weakCGTime>
+			<weakCGTime type="a">7.28.2021::18:28:45</weakCGTime>
 			<strongCGTime type="a">7.28.2021::5:54:25</strongCGTime>
 			<_defaultComposite type="s">GUID 0afbb57e-eb3a-457d-bd90-b36ba8fbb87e</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -1559,14 +1559,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<Diagrams type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Diagrams>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -1594,10 +1586,6 @@
 					<_hid type="a">GUID 82fa2142-e575-4afd-9d07-908d96443add</_hid>
 				</IHandle>
 			</_inverse>
-			<Qualifiers type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Qualifiers>
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">NonNavigable</_navigability>
 		</IAssociationEnd>
@@ -1942,10 +1930,6 @@
 					<_hid type="a">GUID 31b8cbb5-a6d1-43f7-b40e-04db69efcc4f</_hid>
 				</IHandle>
 			</_inverse>
-			<Qualifiers type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Qualifiers>
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
@@ -1953,7 +1937,7 @@
 			<_id type="a">GUID 9b7b143e-189d-4fde-b5f3-6321b566b69d</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Vendedor</_name>
-			<_modifiedTimeWeak type="a">7.28.2021::6:54:22</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.28.2021::18:28:45</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
@@ -1963,8 +1947,8 @@
 					<_hid type="a">GUID 222f6c44-5172-4d60-9025-9e9d3e56344d</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.28.2021::6:54:22</_modifiedTime>
-			<weakCGTime type="a">7.28.2021::6:54:22</weakCGTime>
+			<_modifiedTime type="a">7.28.2021::18:28:45</_modifiedTime>
+			<weakCGTime type="a">7.28.2021::18:28:45</weakCGTime>
 			<strongCGTime type="a">7.28.2021::5:5:36</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -2084,16 +2068,16 @@
 		<IAssociationEnd type="e">
 			<_id type="a">GUID 1c53d5cc-f70a-496e-adc8-3b4eff41922f</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsCI_DescargaBoleta</_name>
-			<_modifiedTimeWeak type="a">7.28.2021::6:54:22</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::6:54:22</_modifiedTime>
+			<_name type="a">itsCI_ComprobanteDeVenta</_name>
+			<_modifiedTimeWeak type="a">7.28.2021::18:28:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::18:28:45</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
 					<_hfilename type="a">.\ventas.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::ventas</_hsubsystem>
-					<_hname type="a">CI_DescargaBoleta</_hname>
+					<_hname type="a">CI_ComprobanteDeVenta</_hname>
 					<_hid type="a">GUID 5b6d9c03-7eb6-46d6-969e-8d13e4f4718e</_hid>
 				</IClassifierHandle>
 			</_otherClass>
@@ -2102,7 +2086,7 @@
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
 					<_hfilename type="a">.\ventas.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::ventas</_hsubsystem>
-					<_hclass type="a">CI_DescargaBoleta</_hclass>
+					<_hclass type="a">CI_ComprobanteDeVenta</_hclass>
 					<_hname type="a">itsVendedor</_hname>
 					<_hid type="a">GUID e44d3bf8-d88d-4674-bc84-ed4cff520d9b</_hid>
 				</IHandle>
