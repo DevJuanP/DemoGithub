@@ -12,10 +12,10 @@
 			<_id type="a">GUID c7d47271-f108-48ac-af33-9b9792da0109</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">pedidos</_name>
-			<_modifiedTimeWeak type="a">7.28.2021::5:6:7</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::5:53:15</_modifiedTime>
+			<_modifiedTimeWeak type="a">7.28.2021::6:54:14</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::6:54:59</_modifiedTime>
 			<_lastID type="a">10</_lastID>
-			<weakCGTime type="a">7.28.2021::5:6:7</weakCGTime>
+			<weakCGTime type="a">7.28.2021::6:54:14</weakCGTime>
 			<strongCGTime type="a">7.28.2021::5:54:25</strongCGTime>
 			<_defaultComposite type="s">GUID 0afbb57e-eb3a-457d-bd90-b36ba8fbb87e</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -1953,7 +1953,7 @@
 			<_id type="a">GUID 9b7b143e-189d-4fde-b5f3-6321b566b69d</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Vendedor</_name>
-			<_modifiedTimeWeak type="a">7.28.2021::5:5:36</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.28.2021::6:54:22</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
@@ -1963,8 +1963,8 @@
 					<_hid type="a">GUID 222f6c44-5172-4d60-9025-9e9d3e56344d</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.28.2021::6:6:25</_modifiedTime>
-			<weakCGTime type="a">7.28.2021::5:5:36</weakCGTime>
+			<_modifiedTime type="a">7.28.2021::6:54:22</_modifiedTime>
+			<weakCGTime type="a">7.28.2021::6:54:22</weakCGTime>
 			<strongCGTime type="a">7.28.2021::5:5:36</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -1974,6 +1974,9 @@
 			<AggregatesList type="e">
 				<value>GUID c7072d83-8bae-42f4-8ab1-10ddd9db5307</value>
 				<value>GUID 8dffec22-bdd9-4145-9b8b-adbf9eedd419</value>
+				<value>GUID 5496e624-2ae6-4080-8944-cd636ca97b90</value>
+				<value>GUID 9f461afa-dc0c-43c5-a39d-9b2f2deb5cb0</value>
+				<value>GUID 1c53d5cc-f70a-496e-adc8-3b4eff41922f</value>
 			</AggregatesList>
 		</IActor>
 		<IAssociationEnd type="e">
@@ -2015,6 +2018,93 @@
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
 					<_hid type="a">GUID 20270dc8-0d5a-40ba-a7b1-f9f585806d4a</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 5496e624-2ae6-4080-8944-cd636ca97b90</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_MenuPrincipal</_name>
+			<_modifiedTimeWeak type="a">7.28.2021::6:54:14</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::6:54:14</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\ventas.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::ventas</_hsubsystem>
+					<_hname type="a">CI_MenuPrincipal</_hname>
+					<_hid type="a">GUID 613c0197-3a27-41a4-bc4d-2b8e53f62438</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\ventas.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::ventas</_hsubsystem>
+					<_hclass type="a">CI_MenuPrincipal</_hclass>
+					<_hname type="a">itsVendedor</_hname>
+					<_hid type="a">GUID ddd5b7c5-a75d-415f-918c-248bdbe56d5b</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 9f461afa-dc0c-43c5-a39d-9b2f2deb5cb0</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_GestionarVenta</_name>
+			<_modifiedTimeWeak type="a">7.28.2021::6:54:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::6:54:19</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\ventas.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::ventas</_hsubsystem>
+					<_hname type="a">CI_GestionarVenta</_hname>
+					<_hid type="a">GUID d8554c3e-c0d5-4296-b4c3-2cdcb2f96513</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\ventas.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::ventas</_hsubsystem>
+					<_hclass type="a">CI_GestionarVenta</_hclass>
+					<_hname type="a">itsVendedor</_hname>
+					<_hid type="a">GUID a8f4e1d4-c787-40ff-8fe6-d34d782c2582</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 1c53d5cc-f70a-496e-adc8-3b4eff41922f</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_DescargaBoleta</_name>
+			<_modifiedTimeWeak type="a">7.28.2021::6:54:22</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::6:54:22</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\ventas.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::ventas</_hsubsystem>
+					<_hname type="a">CI_DescargaBoleta</_hname>
+					<_hid type="a">GUID 5b6d9c03-7eb6-46d6-969e-8d13e4f4718e</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\ventas.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::ventas</_hsubsystem>
+					<_hclass type="a">CI_DescargaBoleta</_hclass>
+					<_hname type="a">itsVendedor</_hname>
+					<_hid type="a">GUID e44d3bf8-d88d-4674-bc84-ed4cff520d9b</_hid>
 				</IHandle>
 			</_inverse>
 			<_linkType type="a">Assoc</_linkType>
