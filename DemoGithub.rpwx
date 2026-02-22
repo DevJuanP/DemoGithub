@@ -29,7 +29,39 @@
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">27</m_nTop>
-								<m_nRight type="a">1326</m_nRight>
+								<m_nRight type="a">1425</m_nRight>
+								<m_nBottom type="a">903</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\DemoGithub_rpy\MA.sbsx</_hfilename>
+								<_hsubsystem type="a">MA</_hsubsystem>
+								<_hname type="a">Arquitectura de an%E1lisis</_hname>
+								<_hid type="a">GUID 5f661a37-12ef-4f08-b383-d6a20612ce19</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">14 3 </_UpLeft>
+						<_DownRight type="a">1109 652 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1425</m_nRight>
 								<m_nBottom type="a">903</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
@@ -37,15 +69,15 @@
 						<_theDiagram type="r">
 							<IHandle type="e">
 								<_hm2Class type="a">IUCDiagram</_hm2Class>
-								<_hfilename type="a">.\DemoGithub_rpy\MCU.sbsx</_hfilename>
-								<_hsubsystem type="a">MCU</_hsubsystem>
-								<_hname type="a">Diagrama general de CU</_hname>
-								<_hid type="a">GUID 222f6c44-5172-4d60-9025-9e9d3e56344d</_hid>
+								<_hfilename type="a">.\DemoGithub_rpy\MA.sbsx</_hfilename>
+								<_hsubsystem type="a">MA</_hsubsystem>
+								<_hname type="a">Organizaci%F3n de CU seg%FAn an%E1lisis</_hname>
+								<_hid type="a">GUID e09ada3a-a2f3-44df-afe7-70283e9eaefa</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">12 52 </_UpLeft>
-						<_DownRight type="a">1131 766 </_DownRight>
-						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<_UpLeft type="a">391 140 </_UpLeft>
+						<_DownRight type="a">1369 719 </_DownRight>
+						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
 						<m_bIsActiveView type="a">1</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -61,7 +93,39 @@
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">27</m_nTop>
-								<m_nRight type="a">1326</m_nRight>
+								<m_nRight type="a">1425</m_nRight>
+								<m_nBottom type="a">903</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IUCDiagram</_hm2Class>
+								<_hfilename type="a">.\DemoGithub_rpy\MCU.sbsx</_hfilename>
+								<_hsubsystem type="a">MCU</_hsubsystem>
+								<_hname type="a">Diagrama general de CU</_hname>
+								<_hid type="a">GUID 222f6c44-5172-4d60-9025-9e9d3e56344d</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">136 42 </_UpLeft>
+						<_DownRight type="a">1114 621 </_DownRight>
+						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1425</m_nRight>
 								<m_nBottom type="a">903</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
@@ -75,9 +139,9 @@
 								<_hid type="a">GUID 7dd619db-4327-4c85-bb8d-65610679d407</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">144 0 </_UpLeft>
-						<_DownRight type="a">1167 652 </_DownRight>
-						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
+						<_UpLeft type="a">32 0 </_UpLeft>
+						<_DownRight type="a">1186 684 </_DownRight>
+						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					

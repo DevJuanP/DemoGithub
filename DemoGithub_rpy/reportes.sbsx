@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>110.0.2</version>
+	<lang>C++</lang>
+	<BuildNo>202504251049</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 3fd3f892-2bde-4143-83be-6a72724d1a85</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">reportes</_name>
+			<_displayName type="a">reportes</_displayName>
+			<_modifiedTimeWeak type="a">7.28.2021::5:27:37</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hsubsystem type="a">MA</_hsubsystem>
+					<_hname type="a">Arquitectura de an%E1lisis</_hname>
+					<_hid type="a">GUID 5f661a37-12ef-4f08-b383-d6a20612ce19</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.28.2021::5:53:15</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">7.28.2021::5:27:37</weakCGTime>
+			<strongCGTime type="a">7.28.2021::5:27:37</strongCGTime>
+			<_defaultComposite type="s">GUID 877c9ba4-3696-4811-9872-1e1317a0c230</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 457d6ec6-6145-4925-aa7e-977fcdd4deb5</value>
+				<value>GUID 877c9ba4-3696-4811-9872-1e1317a0c230</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IDependency type="e">
+			<_id type="a">GUID 457d6ec6-6145-4925-aa7e-977fcdd4deb5</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">package_3</_name>
+			<_displayName type="a">seguridad</_displayName>
+			<_modifiedTimeWeak type="a">7.28.2021::5:27:37</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:27:37</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\package_3.sbsx</_hfilename>
+					<_hsubsystem type="a">MA</_hsubsystem>
+					<_hname type="a">package_3</_hname>
+					<_hid type="a">GUID 18a781e1-2ae2-4ad4-b084-50013a4257d2</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 3fd3f892-2bde-4143-83be-6a72724d1a85</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IClass type="e">
+			<_id type="a">GUID 877c9ba4-3696-4811-9872-1e1317a0c230</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

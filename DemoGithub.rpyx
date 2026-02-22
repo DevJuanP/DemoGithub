@@ -42,8 +42,8 @@
 			</IPropertyContainer>
 			</_properties>
 			<_name type="a">DemoGithub</_name>
-			<_modifiedTimeWeak type="a">7.28.2021::5:11:53</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::5:50:17</_modifiedTime>
+			<_modifiedTimeWeak type="a">7.28.2021::5:13:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:53:15</_modifiedTime>
 			<_lastID type="a">4</_lastID>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
@@ -367,8 +367,8 @@
 			</_properties>
 			<_name type="a">Estructura general del proyecto</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::5:13:1</_modifiedTime>
-			<_lastModifiedTime type="a">7.28.2021::5:13:1</_lastModifiedTime>
+			<_modifiedTime type="a">7.28.2021::5:15:35</_modifiedTime>
+			<_lastModifiedTime type="a">7.28.2021::5:15:35</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -431,7 +431,7 @@
 				<value>GUID 2eef48d8-8310-4440-8043-c6b420d6887b</value>
 				<value>GUID 2af0aa4b-9dcd-497d-a0ad-ed6650238466</value>
 				<value>GUID 5db77081-775c-4b80-84a6-0c2a7e01a903</value>
-				<value>GUID c23d3d37-6496-4e3e-9d2e-210a5287682f</value>
+				<value>GUID 4d2d3920-46cb-4834-bf5d-6903aff74596</value>
 			</AggregatesList>
 		</CGIClassChart>
 		<CGIClass type="e">
@@ -698,7 +698,7 @@
 					<_hm2Class type="a">OMGEElement</_hm2Class>
 					<_hsubsystem type="a">Estructura general del proyecto</_hsubsystem>
 					<_hname type="a">CGIImageData</_hname>
-					<_hid type="a">GUID c23d3d37-6496-4e3e-9d2e-210a5287682f</_hid>
+					<_hid type="a">GUID 4d2d3920-46cb-4834-bf5d-6903aff74596</_hid>
 				</IHandle>
 			</m_pImageViewData>
 			<m_polygon type="a">4 0 0  0 1151  1216 1151  1216 0  </m_polygon>
@@ -706,7 +706,7 @@
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
 		</CGIPackage>
 		<CGIImageData type="e">
-			<_id type="a">GUID c23d3d37-6496-4e3e-9d2e-210a5287682f</_id>
+			<_id type="a">GUID 4d2d3920-46cb-4834-bf5d-6903aff74596</_id>
 			<m_type type="a">0</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
