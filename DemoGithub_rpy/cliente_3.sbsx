@@ -10,19 +10,87 @@
 	<RHAPSODY-MODEL>
 	<ISubsystem type="e">
 			<_id type="a">GUID 8a229347-fb0c-43b3-85ab-5ff2e1b2ca78</_id>
-			<_myState type="a">8192</_myState>
 			<_name type="a">cliente</_name>
-			<_modifiedTimeWeak type="a">7.28.2021::19:52:6</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::19:52:6</_modifiedTime>
-			<weakCGTime type="a">7.28.2021::19:52:6</weakCGTime>
-			<strongCGTime type="a">7.28.2021::19:49:14</strongCGTime>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\..\..\Users\LENOVO\OneDrive\Escritorio\profiles Rhap\DesignProfile\DesignModel.sbsx</_hfilename>
+							<_hsubsystem type="a">DesignModel</_hsubsystem>
+							<_hname type="a">SubSystem</_hname>
+							<_hid type="a">GUID 4aeb0f30-0482-4438-bfe1-f073de14968d</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.28.2021::17:53:19</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Presentacion.sbsx</_hfilename>
+					<_hsubsystem type="a">MD::Presentacion</_hsubsystem>
+					<_hname type="a">diagrama de navegacion inventario</_hname>
+					<_hid type="a">GUID 3c023680-0b85-4326-993b-b2bc68899164</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.28.2021::18:19:55</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">7.28.2021::17:53:19</weakCGTime>
+			<strongCGTime type="a">7.28.2021::17:53:19</strongCGTime>
 			<_defaultComposite type="s">GUID 735b3cf3-d6d7-425d-9c00-01449f0d2704</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
 			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
+				<value>GUID 7255a723-6a33-42c6-95fa-e1d50c2e9d4d</value>
+				<value>GUID fb892160-44d6-42c4-b794-95c07fb3fd2f</value>
 				<value>GUID 735b3cf3-d6d7-425d-9c00-01449f0d2704</value>
 			</AggregatesList>
 		</ISubsystem>
+		<IDependency type="e">
+			<_id type="a">GUID 7255a723-6a33-42c6-95fa-e1d50c2e9d4d</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Util</_name>
+			<_modifiedTimeWeak type="a">7.28.2021::17:50:23</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::17:50:23</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\Util.sbsx</_hfilename>
+					<_hsubsystem type="a">MD::Negocio</_hsubsystem>
+					<_hname type="a">Util</_hname>
+					<_hid type="a">GUID e0e7ce13-52bc-4a58-acfa-9d61221c61cd</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 8a229347-fb0c-43b3-85ab-5ff2e1b2ca78</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID fb892160-44d6-42c4-b794-95c07fb3fd2f</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">admDAO</_name>
+			<_modifiedTimeWeak type="a">7.28.2021::17:51:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::17:51:50</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\admDAO.sbsx</_hfilename>
+					<_hsubsystem type="a">MD::Negocio</_hsubsystem>
+					<_hname type="a">admDAO</_hname>
+					<_hid type="a">GUID 57669a2b-f94c-43f5-af48-7f640694c3d7</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 8a229347-fb0c-43b3-85ab-5ff2e1b2ca78</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
 		<IClass type="e">
 			<_id type="a">GUID 735b3cf3-d6d7-425d-9c00-01449f0d2704</_id>
 			<_myState type="a">40960</_myState>

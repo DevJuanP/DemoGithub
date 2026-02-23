@@ -33,17 +33,51 @@
 								<m_nBottom type="a">795</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
-						<_wasOpenedOnCloseProject type="a">0</_wasOpenedOnCloseProject>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
 						<_theDiagram type="r">
 							<IHandle type="e">
 								<_hm2Class type="a">IDiagram</_hm2Class>
-								<_hname type="a">Estructura general del proyecto</_hname>
-								<_hid type="a">GUID 6d1e2504-ac76-447c-ac6c-add615fd9eae</_hid>
+								<_hfilename type="a">.\DemoGithub_rpy\invetario_1.sbsx</_hfilename>
+								<_hsubsystem type="a">MD::Controladora::invetario</_hsubsystem>
+								<_hname type="a">Main capa controladora invetario</_hname>
+								<_hid type="a">GUID d9e5b2e8-9489-4a0a-b863-27c6fdf8ee31</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">0 166 </_UpLeft>
-						<_DownRight type="a">1309 955 </_DownRight>
-						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1227 739 </_DownRight>
+						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">31</m_nTop>
+								<m_nRight type="a">1257</m_nRight>
+								<m_nBottom type="a">795</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\DemoGithub_rpy\Controladora.sbsx</_hfilename>
+								<_hsubsystem type="a">MD::Controladora</_hsubsystem>
+								<_hname type="a">main capa controladora</_hname>
+								<_hid type="a">GUID 1a472695-17a5-4113-834a-6715d9664b56</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1227 739 </_DownRight>
+						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -69,13 +103,13 @@
 								<_hm2Class type="a">IDiagram</_hm2Class>
 								<_hfilename type="a">.\DemoGithub_rpy\ventas_2.sbsx</_hfilename>
 								<_hsubsystem type="a">MD::Controladora::ventas</_hsubsystem>
-								<_hname type="a">Main capa controladora</_hname>
+								<_hname type="a">Main capa controladora ventas</_hname>
 								<_hid type="a">GUID 405b7ca5-48e6-4c2b-a50e-5b1cbca831dd</_hid>
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
 						<_DownRight type="a">1227 739 </_DownRight>
-						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_nDiagramIndex type="a">4</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -99,112 +133,48 @@
 						<_theDiagram type="r">
 							<IHandle type="e">
 								<_hm2Class type="a">IDiagram</_hm2Class>
-								<_hfilename type="a">.\DemoGithub_rpy\Presentacion.sbsx</_hfilename>
-								<_hsubsystem type="a">MD::Presentacion</_hsubsystem>
-								<_hname type="a">Diagrama de navegacion ventas</_hname>
-								<_hid type="a">GUID 6cb91c1f-7632-4b3c-9e9b-501d08a5271e</_hid>
+								<_hfilename type="a">.\DemoGithub_rpy\Negocio.sbsx</_hfilename>
+								<_hsubsystem type="a">MD::Negocio</_hsubsystem>
+								<_hname type="a">Main capa negocio</_hname>
+								<_hid type="a">GUID ce3f9347-fe7b-4368-8453-bcb0fbb5c072</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">0 10 </_UpLeft>
-						<_DownRight type="a">1227 749 </_DownRight>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1227 739 </_DownRight>
 						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">31</m_nTop>
+								<m_nRight type="a">1257</m_nRight>
+								<m_nBottom type="a">795</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\DemoGithub_rpy\ventas_3.sbsx</_hfilename>
+								<_hsubsystem type="a">MD::Negocio::ventas</_hsubsystem>
+								<_hname type="a">Main capa negocio ventas</_hname>
+								<_hid type="a">GUID eaedfc47-7fce-405c-be01-b408aca3873e</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1227 739 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
 						<m_bIsActiveView type="a">1</m_bIsActiveView>
-					</CGEMdiDiagramParams>
-					
-					<CGEMdiDiagramParams type="e">
-						<_placement type="p">
-							<CCommon_WINDOWPLACEMENT type="e">
-								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">0</m_nFlags>
-								<m_showCmd type="a">1</m_showCmd>
-								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
-								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
-								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
-								<m_nLeft type="a">5</m_nLeft>
-								<m_nTop type="a">31</m_nTop>
-								<m_nRight type="a">1257</m_nRight>
-								<m_nBottom type="a">795</m_nBottom>
-							</CCommon_WINDOWPLACEMENT>
-						</_placement>
-						<_wasOpenedOnCloseProject type="a">0</_wasOpenedOnCloseProject>
-						<_theDiagram type="r">
-							<IHandle type="e">
-								<_hm2Class type="a">IDiagram</_hm2Class>
-								<_hfilename type="a">.\DemoGithub_rpy\Presentacion.sbsx</_hfilename>
-								<_hsubsystem type="a">MD::Presentacion</_hsubsystem>
-								<_hname type="a">diagrama de navegacion inventario</_hname>
-								<_hid type="a">GUID 3c023680-0b85-4326-993b-b2bc68899164</_hid>
-							</IHandle>
-						</_theDiagram>
-						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">1227 739 </_DownRight>
-						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
-						<m_bIsActiveView type="a">0</m_bIsActiveView>
-					</CGEMdiDiagramParams>
-					
-					<CGEMdiDiagramParams type="e">
-						<_placement type="p">
-							<CCommon_WINDOWPLACEMENT type="e">
-								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">0</m_nFlags>
-								<m_showCmd type="a">1</m_showCmd>
-								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
-								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
-								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
-								<m_nLeft type="a">5</m_nLeft>
-								<m_nTop type="a">31</m_nTop>
-								<m_nRight type="a">1257</m_nRight>
-								<m_nBottom type="a">795</m_nBottom>
-							</CCommon_WINDOWPLACEMENT>
-						</_placement>
-						<_wasOpenedOnCloseProject type="a">0</_wasOpenedOnCloseProject>
-						<_theDiagram type="r">
-							<IHandle type="e">
-								<_hm2Class type="a">IDiagram</_hm2Class>
-								<_hfilename type="a">.\DemoGithub_rpy\invetario.sbsx</_hfilename>
-								<_hsubsystem type="a">MD::Presentacion::invetario</_hsubsystem>
-								<_hname type="a">Main Capa presentacion inventario</_hname>
-								<_hid type="a">GUID ace242d7-9b4d-457e-93d5-9bc58abc9c05</_hid>
-							</IHandle>
-						</_theDiagram>
-						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">1227 739 </_DownRight>
-						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
-						<m_bIsActiveView type="a">0</m_bIsActiveView>
-					</CGEMdiDiagramParams>
-					
-					<CGEMdiDiagramParams type="e">
-						<_placement type="p">
-							<CCommon_WINDOWPLACEMENT type="e">
-								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">0</m_nFlags>
-								<m_showCmd type="a">1</m_showCmd>
-								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
-								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
-								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
-								<m_nLeft type="a">5</m_nLeft>
-								<m_nTop type="a">31</m_nTop>
-								<m_nRight type="a">1257</m_nRight>
-								<m_nBottom type="a">795</m_nBottom>
-							</CCommon_WINDOWPLACEMENT>
-						</_placement>
-						<_wasOpenedOnCloseProject type="a">0</_wasOpenedOnCloseProject>
-						<_theDiagram type="r">
-							<IHandle type="e">
-								<_hm2Class type="a">IDiagram</_hm2Class>
-								<_hfilename type="a">.\DemoGithub_rpy\ventas_1.sbsx</_hfilename>
-								<_hsubsystem type="a">MD::Presentacion::ventas</_hsubsystem>
-								<_hname type="a">Main capa presentacion ventas</_hname>
-								<_hid type="a">GUID e120f80e-3be4-46fe-8067-1b9defd4f23c</_hid>
-							</IHandle>
-						</_theDiagram>
-						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">1227 739 </_DownRight>
-						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
-						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
 				</IRPYRawContainer>

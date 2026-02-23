@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>110.0.1</version>
+	<lang>C++</lang>
+	<BuildNo>202408271326</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 0735fe89-9629-4cc8-8109-7ab260fd2674</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Interface</_name>
+			<_modifiedTimeWeak type="a">7.28.2021::18:39:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::18:40:52</_modifiedTime>
+			<_lastID type="a">3</_lastID>
+			<weakCGTime type="a">7.28.2021::18:39:35</weakCGTime>
+			<strongCGTime type="a">7.28.2021::18:22:49</strongCGTime>
+			<_defaultComposite type="s">GUID f9c0c944-3588-4a90-bb60-99e0425d09d7</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID f9c0c944-3588-4a90-bb60-99e0425d09d7</value>
+				<value>GUID b3e568b1-6d9b-4bb9-9a08-24f1ad85ab13</value>
+				<value>GUID 46ee9adb-3052-47ba-847c-d33b9fd903f8</value>
+				<value>GUID 5d351cfe-15af-4863-81ec-e14053f058f0</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID f9c0c944-3588-4a90-bb60-99e0425d09d7</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID b3e568b1-6d9b-4bb9-9a08-24f1ad85ab13</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">IClienteDao</_name>
+			<_modifiedTimeWeak type="a">7.28.2021::18:39:11</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::18:39:11</_modifiedTime>
+			<weakCGTime type="a">7.28.2021::18:39:11</weakCGTime>
+			<strongCGTime type="a">7.28.2021::18:39:11</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID 46ee9adb-3052-47ba-847c-d33b9fd903f8</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">IProductoDao</_name>
+			<_modifiedTimeWeak type="a">7.28.2021::18:39:28</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::18:39:28</_modifiedTime>
+			<weakCGTime type="a">7.28.2021::18:39:28</weakCGTime>
+			<strongCGTime type="a">7.28.2021::18:39:28</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID 5d351cfe-15af-4863-81ec-e14053f058f0</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">IVentaDao</_name>
+			<_modifiedTimeWeak type="a">7.28.2021::18:42:25</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::18:42:25</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">7.28.2021::18:42:25</weakCGTime>
+			<strongCGTime type="a">7.28.2021::18:39:46</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 5eb61807-4e8d-4b09-a8fa-cf4f20e19622</value>
+				<value>GUID 89cbc579-6551-4f87-bcb8-1ae0dbfbd554</value>
+			</AggregatesList>
+		</IClass>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 5eb61807-4e8d-4b09-a8fa-cf4f20e19622</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">buscarPorId</_name>
+			<_modifiedTimeWeak type="a">7.28.2021::18:40:47</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::18:40:47</_modifiedTime>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 89cbc579-6551-4f87-bcb8-1ae0dbfbd554</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">realizarVenta</_name>
+			<_modifiedTimeWeak type="a">7.28.2021::18:42:25</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::18:42:25</_modifiedTime>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
