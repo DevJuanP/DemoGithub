@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>110.0.1</version>
+	<lang>C++</lang>
+	<BuildNo>202408271326</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 65e311f1-10a4-491a-8b78-f588ae89689b</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Controladora</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\..\..\Users\LENOVO\OneDrive\Escritorio\profiles Rhap\DesignProfile\DesignModel.sbsx</_hfilename>
+							<_hsubsystem type="a">DesignModel</_hsubsystem>
+							<_hname type="a">Layer</_hname>
+							<_hid type="a">GUID b6902a2d-ecf4-4ebd-89b1-12a076bc710a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.28.2021::19:52:1</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\MD.sbsx</_hfilename>
+					<_hsubsystem type="a">MD</_hsubsystem>
+					<_hname type="a">capas en MD</_hname>
+					<_hid type="a">GUID 9d095ccf-64cd-4576-9bb5-5f7e3f492d75</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.28.2021::19:52:1</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">7.28.2021::19:52:1</weakCGTime>
+			<strongCGTime type="a">7.28.2021::19:45:41</strongCGTime>
+			<_defaultComposite type="s">GUID f8d4fe6c-ccd7-4997-9f09-2f1c4091271d</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID bcc7687b-dad8-4ead-8e93-f5edcdfb451c</value>
+				<value>GUID e54db967-f6c3-4f7e-bcb1-3006ea12ee53</value>
+				<value>GUID cde6d1e0-1945-4835-9bed-8b9184f3dd52</value>
+				<value>GUID 92ab7b42-c5f8-4cf1-b2e6-a1f6758676bc</value>
+				<value>GUID febe022d-d2d2-44b6-ae06-f29f1ff8050f</value>
+				<value>GUID 5b334753-4c8a-4319-8a77-85c898b7b1e1</value>
+				<value>GUID f62ce069-dc5b-4f09-a23a-6720c5553199</value>
+				<value>GUID f8d4fe6c-ccd7-4997-9f09-2f1c4091271d</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IDependency type="e">
+			<_id type="a">GUID bcc7687b-dad8-4ead-8e93-f5edcdfb451c</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Negocio</_name>
+			<_modifiedTimeWeak type="a">7.28.2021::19:45:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::19:45:13</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\Negocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MD</_hsubsystem>
+					<_hname type="a">Negocio</_hname>
+					<_hid type="a">GUID 5de96c29-a21b-4704-b51e-ef54e7db4b9f</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 65e311f1-10a4-491a-8b78-f588ae89689b</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<ISubsystem type="e">
+			<fileName type="a">cliente_2</fileName>
+			<_id type="a">GUID e54db967-f6c3-4f7e-bcb1-3006ea12ee53</_id>
+			<_name type="a">cliente</_name>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">invetario_1</fileName>
+			<_id type="a">GUID cde6d1e0-1945-4835-9bed-8b9184f3dd52</_id>
+			<_name type="a">invetario</_name>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">pedido_2</fileName>
+			<_id type="a">GUID 92ab7b42-c5f8-4cf1-b2e6-a1f6758676bc</_id>
+			<_name type="a">pedido</_name>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">reportes_2</fileName>
+			<_id type="a">GUID febe022d-d2d2-44b6-ae06-f29f1ff8050f</_id>
+			<_name type="a">reportes</_name>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">seguridad_3</fileName>
+			<_id type="a">GUID 5b334753-4c8a-4319-8a77-85c898b7b1e1</_id>
+			<_name type="a">seguridad</_name>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">ventas_2</fileName>
+			<_id type="a">GUID f62ce069-dc5b-4f09-a23a-6720c5553199</_id>
+			<_name type="a">ventas</_name>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID f8d4fe6c-ccd7-4997-9f09-2f1c4091271d</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

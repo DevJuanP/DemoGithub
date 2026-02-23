@@ -25,7 +25,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">7.28.2021::17:39:3</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.28.2021::19:50:44</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -33,9 +33,9 @@
 					<_hid type="a">GUID 6d1e2504-ac76-447c-ac6c-add615fd9eae</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.28.2021::17:53:4</_modifiedTime>
+			<_modifiedTime type="a">7.28.2021::19:50:44</_modifiedTime>
 			<_lastID type="a">9</_lastID>
-			<weakCGTime type="a">7.28.2021::17:39:3</weakCGTime>
+			<weakCGTime type="a">7.28.2021::19:50:44</weakCGTime>
 			<strongCGTime type="a">7.28.2021::5:12:15</strongCGTime>
 			<_defaultComposite type="s">GUID 0675ffca-01f3-467f-9f1f-91c60d626123</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -2531,8 +2531,9 @@
 			<_id type="a">GUID 9e5d7a91-3e1a-4b3c-85f0-7edc1f35763b</_id>
 		</ISubsystem>
 		<ISubsystem type="e">
-			<fileName type="a">package_3</fileName>
+			<fileName type="a">seguridad_1</fileName>
 			<_id type="a">GUID 18a781e1-2ae2-4ad4-b084-50013a4257d2</_id>
+			<_name type="a">seguridad</_name>
 		</ISubsystem>
 		<ISubsystem type="e">
 			<fileName type="a">inventario</fileName>
@@ -2726,8 +2727,8 @@
 }%0D
 </_displayName>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::6:12:56</_modifiedTime>
-			<_lastModifiedTime type="a">7.28.2021::6:12:56</_lastModifiedTime>
+			<_modifiedTime type="a">7.28.2021::19:50:44</_modifiedTime>
+			<_lastModifiedTime type="a">7.28.2021::19:50:44</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -3487,16 +3488,16 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hfilename type="a">.\package_3.sbsx</_hfilename>
+					<_hfilename type="a">.\seguridad_1.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
-					<_hname type="a">package_3</_hname>
+					<_hname type="a">seguridad</_hname>
 					<_hid type="a">GUID 18a781e1-2ae2-4ad4-b084-50013a4257d2</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 4e0e6c64-dd0b-43e7-b562-832fe7ba164d</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">package_3</m_str>
+					<m_str type="a">seguridad</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3691,7 +3692,7 @@
 					<_hm2Class type="a">IDependency</_hm2Class>
 					<_hfilename type="a">.\ventas.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::ventas</_hsubsystem>
-					<_hname type="a">package_3</_hname>
+					<_hname type="a">seguridad</_hname>
 					<_hid type="a">GUID 2062f44a-e8a8-42de-b3a0-6fe758f076d2</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -3752,7 +3753,7 @@
 					<_hm2Class type="a">IDependency</_hm2Class>
 					<_hfilename type="a">.\pedido.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::pedido</_hsubsystem>
-					<_hname type="a">package_3</_hname>
+					<_hname type="a">seguridad</_hname>
 					<_hid type="a">GUID a15734cd-ec6c-487f-8eee-562973370756</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -3813,7 +3814,7 @@
 					<_hm2Class type="a">IDependency</_hm2Class>
 					<_hfilename type="a">.\cliente.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::cliente</_hsubsystem>
-					<_hname type="a">package_3</_hname>
+					<_hname type="a">seguridad</_hname>
 					<_hid type="a">GUID 6e8270a8-57dd-4eeb-853e-70f375adc22f</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -3874,7 +3875,7 @@
 					<_hm2Class type="a">IDependency</_hm2Class>
 					<_hfilename type="a">.\inventario.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::inventario</_hsubsystem>
-					<_hname type="a">package_3</_hname>
+					<_hname type="a">seguridad</_hname>
 					<_hid type="a">GUID 2d765929-068e-4263-8eee-cc05780c6f68</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -3935,7 +3936,7 @@
 					<_hm2Class type="a">IDependency</_hm2Class>
 					<_hfilename type="a">.\reportes.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::reportes</_hsubsystem>
-					<_hname type="a">package_3</_hname>
+					<_hname type="a">seguridad</_hname>
 					<_hid type="a">GUID 457d6ec6-6145-4925-aa7e-977fcdd4deb5</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -4134,8 +4135,8 @@
 			</_properties>
 			<_name type="a">Modelo Conceptual</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::17:39:3</_modifiedTime>
-			<_lastModifiedTime type="a">7.28.2021::17:39:3</_lastModifiedTime>
+			<_modifiedTime type="a">7.28.2021::19:36:49</_modifiedTime>
+			<_lastModifiedTime type="a">7.28.2021::19:36:49</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -4178,7 +4179,7 @@
 			</m_name>
 			<m_drawBehavior type="a">0</m_drawBehavior>
 			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
-			<elementList type="a">9</elementList>
+			<elementList type="a">11</elementList>
 			
 			<m_access type="a">'Z'</m_access>
 			<m_modified type="a">'N'</m_modified>
@@ -4200,6 +4201,8 @@
 				<value>GUID 3dbff974-9735-4480-afa3-d5f579d9f1a3</value>
 				<value>GUID 915484ae-0b6d-4643-8381-b6d1cf02a6e9</value>
 				<value>GUID dc05b085-753c-465f-8da3-6f24e70d55ca</value>
+				<value>GUID d335fa20-63b1-4dbe-a15b-99dab51da8bf</value>
+				<value>GUID 32020cef-34a6-4426-9310-2802969c7aa1</value>
 			</AggregatesList>
 		</CGIClassChart>
 		<CGIClass type="e">
@@ -4601,7 +4604,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4096</m_drawBehavior>
-			<m_transform type="a">0.202681 0 0 0.214054 717.18 688.711 </m_transform>
+			<m_transform type="a">0.202681 0 0 0.214054 567.18 788.711 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -5035,7 +5038,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsVenta</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -5052,7 +5054,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsProducto</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -5257,7 +5258,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsCliente</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -5274,7 +5274,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsVenta</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -5636,6 +5635,427 @@
 				</IRPYRawContainer>
 			</Items>
 		</CGICompartment>
+		<CGIClass type="e">
+			<_id type="a">GUID d335fa20-63b1-4dbe-a15b-99dab51da8bf</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">General</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Graphics</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">EnableImageView</_Name>
+													<_Value type="a">True</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">FitBoxToItsTextuals</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">ImageViewLayout</_Name>
+													<_Value type="a">Compartment</_Value>
+													<_Type type="a">Enum</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+						<IPropertySubject type="e">
+							<_Name type="a">ObjectModelGe</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Class</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">Compartments</_Name>
+													<_Value type="a">Attribute,Operation</_Value>
+													<_Type type="a">MultiLine</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<m_type type="a">87</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\inventario.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::inventario</_hsubsystem>
+					<_hname type="a">Inventario</_hname>
+					<_hid type="a">GUID ece5ec83-4cf9-4bbe-9cf0-216b8822f609</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 27da3f85-b8d8-4b63-a330-af54a6567168</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">inventario::Inventario</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.258735 0 0 0.213904 928.482 819.626 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_pImageViewData type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">OMGEElement</_hm2Class>
+					<_hid type="a">GUID 8880dac1-79ad-410d-8431-18fe23f4acca</_hid>
+				</IHandle>
+			</m_pImageViewData>
+			<m_bFramesetModified type="a">1</m_bFramesetModified>
+			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=33%25,40%25,27%25&gt;
+&lt;frame name=StereotypeBitmap,C:\Users\LENOVO\OneDrive\Escritorio\profiles$SPACERhap04\AnalysisProfile\images_analysis\entity.jpg&gt;
+&lt;frame name=AttributeListCompartment&gt;
+&lt;frame name=OperationListCompartment&gt;</frameset>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Operations>
+			<AggregatesList type="e">
+				<value>GUID 087d9834-7b77-48fd-b1cd-ace389659156</value>
+				<value>GUID a427e7d8-9fc9-4d07-a0e8-67ae580a2112</value>
+			</AggregatesList>
+		</CGIClass>
+		<CGICompartment type="e">
+			<_id type="a">GUID 087d9834-7b77-48fd-b1cd-ace389659156</_id>
+			<m_name type="a">Attribute</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IAttribute</_hm2Class>
+							<_hfilename type="a">.\inventario.sbsx</_hfilename>
+							<_hsubsystem type="a">MA::inventario</_hsubsystem>
+							<_hclass type="a">Inventario</_hclass>
+							<_hname type="a">fechaDeActualizacion</_hname>
+							<_hid type="a">GUID f09d6fed-df1e-4195-bc6b-7c1457c970ce</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IAttribute</_hm2Class>
+							<_hfilename type="a">.\inventario.sbsx</_hfilename>
+							<_hsubsystem type="a">MA::inventario</_hsubsystem>
+							<_hclass type="a">Inventario</_hclass>
+							<_hname type="a">productos</_hname>
+							<_hid type="a">GUID 3ef22895-8ccb-43eb-8ffa-431dbe220279</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IAttribute</_hm2Class>
+							<_hfilename type="a">.\inventario.sbsx</_hfilename>
+							<_hsubsystem type="a">MA::inventario</_hsubsystem>
+							<_hclass type="a">Inventario</_hclass>
+							<_hname type="a">id_inventario</_hname>
+							<_hid type="a">GUID 607301a2-cb84-4bb0-b507-bcfb4be3f888</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Items>
+			<_itemValueOfFontPropertiesMapCount type="a">3</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID a427e7d8-9fc9-4d07-a0e8-67ae580a2112</_id>
+			<m_name type="a">Operation</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGIAssociationEnd type="e">
+			<_id type="a">GUID 32020cef-34a6-4426-9310-2802969c7aa1</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">ObjectModelGe</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Association</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">ShowRoleVisibility</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">ShowSourceMultiplicity</_Name>
+													<_Value type="a">True</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">ShowTargetMultiplicity</_Name>
+													<_Value type="a">True</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<m_type type="a">92</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\inventario.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::inventario</_hsubsystem>
+					<_hclass type="a">Inventario</_hclass>
+					<_hname type="a">itsProducto</_hname>
+					<_hid type="a">GUID cec9de70-492a-43c5-8091-02ac364569c1</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID d335fa20-63b1-4dbe-a15b-99dab51da8bf</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID dc05b085-753c-465f-8da3-6f24e70d55ca</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">0</m_line_style>
+			<m_SourcePort type="a">404 329 </m_SourcePort>
+			<m_TargetPort type="a">592 1450 </m_TargetPort>
+			<m_pInverseModelObject type="r">
+				<IAssociationEndHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\ventas.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::ventas</_hsubsystem>
+					<_hclass type="a">Producto</_hclass>
+					<_hname type="a">itsInventario</_hname>
+					<_hid type="a">GUID 37639c0a-ad3e-4d0d-b24f-152b0941cb87</_hid>
+				</IAssociationEndHandle>
+			</m_pInverseModelObject>
+			<m_pInstance type="r">
+				<IObjectLinkHandle type="e">
+				</IObjectLinkHandle>
+			</m_pInstance>
+			<m_pInverseInstance type="r">
+				<IObjectLinkHandle type="e">
+				</IObjectLinkHandle>
+			</m_pInverseInstance>
+			<m_bShowSourceMultiplicity type="a">1</m_bShowSourceMultiplicity>
+			<m_bShowSourceRole type="a">0</m_bShowSourceRole>
+			<m_bShowTargetMultiplicity type="a">1</m_bShowTargetMultiplicity>
+			<m_bShowTargetRole type="a">0</m_bShowTargetRole>
+			<m_bShowLinkName type="a">1</m_bShowLinkName>
+			<m_bShowSpecificType type="a">0</m_bShowSpecificType>
+			<m_bInstance type="a">0</m_bInstance>
+			<m_bShowQualifier1 type="a">0</m_bShowQualifier1>
+			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
+			<m_sourceRole type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">2</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">4</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceRole>
+			<m_targetRole type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">3</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">2</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetRole>
+			<m_sourceMultiplicity type="p">
+				<CGIText type="e">
+					<m_str type="a">1</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">4</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">6</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceMultiplicity>
+			<m_targetMultiplicity type="p">
+				<CGIText type="e">
+					<m_str type="a">1..*</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">5</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">0</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetMultiplicity>
+			<m_sourceQualifier type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">6</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceQualifier>
+			<m_targetQualifier type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">7</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetQualifier>
+			<m_specificType type="a">symmetric_type</m_specificType>
+		</CGIAssociationEnd>
 		<IClass type="e">
 			<_id type="a">GUID 0675ffca-01f3-467f-9f1f-91c60d626123</_id>
 			<_myState type="a">40960</_myState>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>110.0.1</version>
+	<lang>C++</lang>
+	<BuildNo>202408271326</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 5de96c29-a21b-4704-b51e-ef54e7db4b9f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Negocio</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\..\..\Users\LENOVO\OneDrive\Escritorio\profiles Rhap\DesignProfile\DesignModel.sbsx</_hfilename>
+							<_hsubsystem type="a">DesignModel</_hsubsystem>
+							<_hname type="a">Layer</_hname>
+							<_hid type="a">GUID b6902a2d-ecf4-4ebd-89b1-12a076bc710a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.28.2021::19:52:6</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\MD.sbsx</_hfilename>
+					<_hsubsystem type="a">MD</_hsubsystem>
+					<_hname type="a">capas en MD</_hname>
+					<_hid type="a">GUID 9d095ccf-64cd-4576-9bb5-5f7e3f492d75</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.28.2021::19:52:6</_modifiedTime>
+			<weakCGTime type="a">7.28.2021::19:52:6</weakCGTime>
+			<strongCGTime type="a">7.28.2021::19:45:45</strongCGTime>
+			<_defaultComposite type="s">GUID 6139234d-1781-4e6b-8e08-45cfc7e76afe</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 8a229347-fb0c-43b3-85ab-5ff2e1b2ca78</value>
+				<value>GUID 870b5d97-872b-4ea7-8ade-e533d4d31c11</value>
+				<value>GUID 70e2e105-1c85-4652-bc1b-26ef7f2b8551</value>
+				<value>GUID 07562c5b-22fc-47ea-8e69-b93685c8a05e</value>
+				<value>GUID 04643d67-617f-4196-b67c-29f784aedef6</value>
+				<value>GUID 0ab35b93-ad30-4e77-886e-6890e1bf8da0</value>
+				<value>GUID 6139234d-1781-4e6b-8e08-45cfc7e76afe</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">cliente_3</fileName>
+			<_id type="a">GUID 8a229347-fb0c-43b3-85ab-5ff2e1b2ca78</_id>
+			<_name type="a">cliente</_name>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">invetario_2</fileName>
+			<_id type="a">GUID 870b5d97-872b-4ea7-8ade-e533d4d31c11</_id>
+			<_name type="a">invetario</_name>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">pedido_3</fileName>
+			<_id type="a">GUID 70e2e105-1c85-4652-bc1b-26ef7f2b8551</_id>
+			<_name type="a">pedido</_name>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">reportes_3</fileName>
+			<_id type="a">GUID 07562c5b-22fc-47ea-8e69-b93685c8a05e</_id>
+			<_name type="a">reportes</_name>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">seguridad_4</fileName>
+			<_id type="a">GUID 04643d67-617f-4196-b67c-29f784aedef6</_id>
+			<_name type="a">seguridad</_name>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">ventas_3</fileName>
+			<_id type="a">GUID 0ab35b93-ad30-4e77-886e-6890e1bf8da0</_id>
+			<_name type="a">ventas</_name>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 6139234d-1781-4e6b-8e08-45cfc7e76afe</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
