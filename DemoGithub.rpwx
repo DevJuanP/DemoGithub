@@ -29,7 +29,7 @@
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">31</m_nTop>
-								<m_nRight type="a">1257</m_nRight>
+								<m_nRight type="a">1139</m_nRight>
 								<m_nBottom type="a">795</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
@@ -44,7 +44,7 @@
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">1227 739 </_DownRight>
+						<_DownRight type="a">1109 739 </_DownRight>
 						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -61,7 +61,7 @@
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">31</m_nTop>
-								<m_nRight type="a">1257</m_nRight>
+								<m_nRight type="a">1139</m_nRight>
 								<m_nBottom type="a">795</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
@@ -76,7 +76,7 @@
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">1227 739 </_DownRight>
+						<_DownRight type="a">1109 739 </_DownRight>
 						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -93,7 +93,7 @@
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">31</m_nTop>
-								<m_nRight type="a">1257</m_nRight>
+								<m_nRight type="a">1139</m_nRight>
 								<m_nBottom type="a">795</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
@@ -108,7 +108,7 @@
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">1227 739 </_DownRight>
+						<_DownRight type="a">1109 739 </_DownRight>
 						<m_nDiagramIndex type="a">4</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -125,7 +125,7 @@
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">31</m_nTop>
-								<m_nRight type="a">1257</m_nRight>
+								<m_nRight type="a">1139</m_nRight>
 								<m_nBottom type="a">795</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
@@ -140,7 +140,7 @@
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">1227 739 </_DownRight>
+						<_DownRight type="a">1109 739 </_DownRight>
 						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -157,7 +157,7 @@
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">31</m_nTop>
-								<m_nRight type="a">1257</m_nRight>
+								<m_nRight type="a">1139</m_nRight>
 								<m_nBottom type="a">795</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
@@ -172,7 +172,7 @@
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">1227 739 </_DownRight>
+						<_DownRight type="a">1109 739 </_DownRight>
 						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
 						<m_bIsActiveView type="a">1</m_bIsActiveView>
 					</CGEMdiDiagramParams>
