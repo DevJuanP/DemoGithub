@@ -12,17 +12,17 @@
 			<_id type="a">GUID 9e5d7a91-3e1a-4b3c-85f0-7edc1f35763b</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">ventas</_name>
-			<_modifiedTimeWeak type="a">7.28.2021::5:21:37</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.28.2021::5:30:4</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Arquitectura de an%E1lisis</_hname>
 					<_hid type="a">GUID 5f661a37-12ef-4f08-b383-d6a20612ce19</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.28.2021::5:21:47</_modifiedTime>
+			<_modifiedTime type="a">7.28.2021::6:29:12</_modifiedTime>
 			<_lastID type="a">15</_lastID>
 			<weakCGTime type="a">7.28.2021::19:50:44</weakCGTime>
 			<strongCGTime type="a">7.28.2021::19:50:44</strongCGTime>
@@ -53,7 +53,7 @@
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hfilename type="a">.\seguridad_1.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\seguridad_1.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">seguridad</_hname>
 					<_hid type="a">GUID 18a781e1-2ae2-4ad4-b084-50013a4257d2</_hid>
@@ -236,8 +236,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::5:27:53</_modifiedTime>
-			<_lastModifiedTime type="a">7.28.2021::5:27:53</_lastModifiedTime>
+			<_modifiedTime type="a">7.28.2021::5:39:19</_modifiedTime>
+			<_lastModifiedTime type="a">7.28.2021::5:39:19</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -381,7 +381,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hname type="a">Vendedor</_hname>
 					<_hid type="a">GUID 9b7b143e-189d-4fde-b5f3-6321b566b69d</_hid>
@@ -1197,7 +1197,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hclass type="a">Vendedor</_hclass>
 					<_hname type="a">itsCI_MenuPrincipal</_hname>
@@ -1411,7 +1411,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hclass type="a">Vendedor</_hclass>
 					<_hname type="a">itsCI_GestionarVenta</_hname>
@@ -1625,7 +1625,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hclass type="a">Vendedor</_hclass>
 					<_hname type="a">itsCI_ComprobanteDeVenta</_hname>
@@ -7159,7 +7159,7 @@
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hname type="a">Vendedor</_hname>
 					<_hid type="a">GUID 9b7b143e-189d-4fde-b5f3-6321b566b69d</_hid>
@@ -7168,7 +7168,7 @@
 			<_inverse type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hclass type="a">Vendedor</_hclass>
 					<_hname type="a">itsCI_MenuPrincipal</_hname>
@@ -7247,7 +7247,7 @@
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hname type="a">Vendedor</_hname>
 					<_hid type="a">GUID 9b7b143e-189d-4fde-b5f3-6321b566b69d</_hid>
@@ -7256,7 +7256,7 @@
 			<_inverse type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hclass type="a">Vendedor</_hclass>
 					<_hname type="a">itsCI_GestionarVenta</_hname>
@@ -7335,7 +7335,7 @@
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hname type="a">Vendedor</_hname>
 					<_hid type="a">GUID 9b7b143e-189d-4fde-b5f3-6321b566b69d</_hid>
@@ -7344,7 +7344,7 @@
 			<_inverse type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hclass type="a">Vendedor</_hclass>
 					<_hname type="a">itsCI_ComprobanteDeVenta</_hname>
@@ -7589,15 +7589,15 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">7.28.2021::5:22:19</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.28.2021::5:34:21</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e1c50e52-860a-48d2-82ae-bf2f134802cb</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.28.2021::5:22:19</_modifiedTime>
-			<_lastID type="a">6</_lastID>
+			<_modifiedTime type="a">7.28.2021::5:34:21</_modifiedTime>
+			<_lastID type="a">12</_lastID>
 			<weakCGTime type="a">7.28.2021::18:7:57</weakCGTime>
 			<strongCGTime type="a">7.28.2021::6:52:45</strongCGTime>
 			<_itsStateChart type="r">
@@ -7606,116 +7606,16 @@
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
-				<value>GUID 74cb6587-f7e0-48cf-9d1a-31dab0cbb226</value>
-				<value>GUID 08017e41-3cf6-4168-9d39-44265388baf8</value>
-				<value>GUID 8ce946ef-f8e4-4a65-b2c4-e324a2b7b17c</value>
-				<value>GUID fcea31a9-e47c-4601-99c4-aca042a711c7</value>
-				<value>GUID f75de5ef-b441-408c-aa49-cac05852bd58</value>
 				<value>GUID 98d39d2f-0097-4c76-b091-140d90a2d712</value>
+				<value>GUID deb43214-9cea-4ec6-9a31-82bdde0091af</value>
+				<value>GUID 431aeff0-f2c6-4232-b7d8-e23715dabcbf</value>
+				<value>GUID 16084fc8-35cc-45c2-bd87-fb12a93a3e49</value>
+				<value>GUID 7aae6546-aa58-4e70-a4be-23c1a05c7702</value>
+				<value>GUID 09e64def-221f-46f1-a52a-1781d4d9bff0</value>
 				<value>GUID 7633e38a-fa16-482d-be1f-cf15b5036963</value>
 				<value>GUID c54a7b76-9bfa-4edf-94bb-0dec1e2f416f</value>
 			</AggregatesList>
 		</IClass>
-		<IAttribute type="e">
-			<_id type="a">GUID 74cb6587-f7e0-48cf-9d1a-31dab0cbb226</_id>
-			<_myState type="a">8192</_myState>
-			<_name type="a">nombre</_name>
-			<_modifiedTimeWeak type="a">7.28.2021::17:24:54</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::17:24:54</_modifiedTime>
-			<_typeOf type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IType</_hm2Class>
-					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
-					<_hname type="a">char</_hname>
-					<_hid type="a">GUID 717461b3-278b-47c8-9526-c62c7be55b14</_hid>
-				</IHandle>
-			</_typeOf>
-			<_isOrdered type="a">0</_isOrdered>
-			<_protection type="a">iPublic</_protection>
-			<_static type="a">0</_static>
-			<_isReferenceAttr type="a">0</_isReferenceAttr>
-			<_isConstant type="a">0</_isConstant>
-		</IAttribute>
-		<IAttribute type="e">
-			<_id type="a">GUID 08017e41-3cf6-4168-9d39-44265388baf8</_id>
-			<_myState type="a">8192</_myState>
-			<_name type="a">apellido</_name>
-			<_modifiedTimeWeak type="a">7.28.2021::17:24:58</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::17:24:58</_modifiedTime>
-			<_typeOf type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IType</_hm2Class>
-					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
-					<_hname type="a">char</_hname>
-					<_hid type="a">GUID 717461b3-278b-47c8-9526-c62c7be55b14</_hid>
-				</IHandle>
-			</_typeOf>
-			<_isOrdered type="a">0</_isOrdered>
-			<_protection type="a">iPublic</_protection>
-			<_static type="a">0</_static>
-			<_isReferenceAttr type="a">0</_isReferenceAttr>
-			<_isConstant type="a">0</_isConstant>
-		</IAttribute>
-		<IAttribute type="e">
-			<_id type="a">GUID 8ce946ef-f8e4-4a65-b2c4-e324a2b7b17c</_id>
-			<_myState type="a">8192</_myState>
-			<_name type="a">dni</_name>
-			<_modifiedTimeWeak type="a">7.28.2021::17:25:19</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::17:25:19</_modifiedTime>
-			<_typeOf type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IType</_hm2Class>
-					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
-					<_hname type="a">char</_hname>
-					<_hid type="a">GUID 717461b3-278b-47c8-9526-c62c7be55b14</_hid>
-				</IHandle>
-			</_typeOf>
-			<_isOrdered type="a">0</_isOrdered>
-			<_protection type="a">iPublic</_protection>
-			<_static type="a">0</_static>
-			<_isReferenceAttr type="a">0</_isReferenceAttr>
-			<_isConstant type="a">0</_isConstant>
-		</IAttribute>
-		<IAttribute type="e">
-			<_id type="a">GUID fcea31a9-e47c-4601-99c4-aca042a711c7</_id>
-			<_myState type="a">8192</_myState>
-			<_name type="a">telf</_name>
-			<_modifiedTimeWeak type="a">7.28.2021::17:24:31</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::17:24:31</_modifiedTime>
-			<_typeOf type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IType</_hm2Class>
-					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
-					<_hname type="a">int</_hname>
-					<_hid type="a">GUID 6024c6ab-fe9e-402e-954f-27aca6d3b5e4</_hid>
-				</IHandle>
-			</_typeOf>
-			<_isOrdered type="a">0</_isOrdered>
-			<_protection type="a">iPublic</_protection>
-			<_static type="a">0</_static>
-			<_isReferenceAttr type="a">0</_isReferenceAttr>
-			<_isConstant type="a">0</_isConstant>
-		</IAttribute>
-		<IAttribute type="e">
-			<_id type="a">GUID f75de5ef-b441-408c-aa49-cac05852bd58</_id>
-			<_myState type="a">8192</_myState>
-			<_name type="a">correo</_name>
-			<_modifiedTimeWeak type="a">7.28.2021::17:25:45</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::17:25:45</_modifiedTime>
-			<_typeOf type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IType</_hm2Class>
-					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
-					<_hname type="a">char</_hname>
-					<_hid type="a">GUID 717461b3-278b-47c8-9526-c62c7be55b14</_hid>
-				</IHandle>
-			</_typeOf>
-			<_isOrdered type="a">0</_isOrdered>
-			<_protection type="a">iPublic</_protection>
-			<_static type="a">0</_static>
-			<_isReferenceAttr type="a">0</_isReferenceAttr>
-			<_isConstant type="a">0</_isConstant>
-		</IAttribute>
 		<IAttribute type="e">
 			<_id type="a">GUID 98d39d2f-0097-4c76-b091-140d90a2d712</_id>
 			<_myState type="a">8192</_myState>
@@ -7729,6 +7629,111 @@
 					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
 					<_hname type="a">int</_hname>
 					<_hid type="a">GUID 6024c6ab-fe9e-402e-954f-27aca6d3b5e4</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_isReferenceAttr type="a">0</_isReferenceAttr>
+			<_isConstant type="a">0</_isConstant>
+		</IAttribute>
+		<IAttribute type="e">
+			<_id type="a">GUID deb43214-9cea-4ec6-9a31-82bdde0091af</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">dni</_name>
+			<_displayName type="a">dni</_displayName>
+			<_modifiedTimeWeak type="a">7.28.2021::5:33:33</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:33:33</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">char</_hname>
+					<_hid type="a">GUID 717461b3-278b-47c8-9526-c62c7be55b14</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_isReferenceAttr type="a">0</_isReferenceAttr>
+			<_isConstant type="a">0</_isConstant>
+		</IAttribute>
+		<IAttribute type="e">
+			<_id type="a">GUID 431aeff0-f2c6-4232-b7d8-e23715dabcbf</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">nombre</_name>
+			<_displayName type="a">nombre</_displayName>
+			<_modifiedTimeWeak type="a">7.28.2021::5:33:44</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:33:44</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">char</_hname>
+					<_hid type="a">GUID 717461b3-278b-47c8-9526-c62c7be55b14</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_isReferenceAttr type="a">0</_isReferenceAttr>
+			<_isConstant type="a">0</_isConstant>
+		</IAttribute>
+		<IAttribute type="e">
+			<_id type="a">GUID 16084fc8-35cc-45c2-bd87-fb12a93a3e49</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">apellido</_name>
+			<_displayName type="a">apellido</_displayName>
+			<_modifiedTimeWeak type="a">7.28.2021::5:33:55</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:33:55</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">char</_hname>
+					<_hid type="a">GUID 717461b3-278b-47c8-9526-c62c7be55b14</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_isReferenceAttr type="a">0</_isReferenceAttr>
+			<_isConstant type="a">0</_isConstant>
+		</IAttribute>
+		<IAttribute type="e">
+			<_id type="a">GUID 7aae6546-aa58-4e70-a4be-23c1a05c7702</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">correo</_name>
+			<_displayName type="a">correo</_displayName>
+			<_modifiedTimeWeak type="a">7.28.2021::5:34:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:34:7</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">char</_hname>
+					<_hid type="a">GUID 717461b3-278b-47c8-9526-c62c7be55b14</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_isReferenceAttr type="a">0</_isReferenceAttr>
+			<_isConstant type="a">0</_isConstant>
+		</IAttribute>
+		<IAttribute type="e">
+			<_id type="a">GUID 09e64def-221f-46f1-a52a-1781d4d9bff0</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">telefono</_name>
+			<_displayName type="a">telefono</_displayName>
+			<_modifiedTimeWeak type="a">7.28.2021::5:34:21</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:34:21</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">char</_hname>
+					<_hid type="a">GUID 717461b3-278b-47c8-9526-c62c7be55b14</_hid>
 				</IHandle>
 			</_typeOf>
 			<_isOrdered type="a">0</_isOrdered>
@@ -7798,15 +7803,15 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">7.28.2021::18:51:59</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.28.2021::5:37:13</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e1c50e52-860a-48d2-82ae-bf2f134802cb</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.28.2021::18:51:59</_modifiedTime>
-			<_lastID type="a">5</_lastID>
+			<_modifiedTime type="a">7.28.2021::5:37:13</_modifiedTime>
+			<_lastID type="a">11</_lastID>
 			<weakCGTime type="a">7.28.2021::18:51:59</weakCGTime>
 			<strongCGTime type="a">7.28.2021::6:52:49</strongCGTime>
 			<_itsStateChart type="r">
@@ -7815,22 +7820,24 @@
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
-				<value>GUID 540859c2-3708-4e73-95fb-cb27793e2dcf</value>
-				<value>GUID c0580832-cfe5-4304-a65d-46456cca8c1f</value>
-				<value>GUID 5aaae819-f879-462b-a245-688969350616</value>
-				<value>GUID 2ce047a2-b693-44df-8ab9-80d2f8ad427f</value>
-				<value>GUID 742b7a82-2d47-4a00-8125-929a231103ab</value>
+				<value>GUID 7457c187-d607-4ef1-b450-d058a1d474ae</value>
+				<value>GUID c15fc699-1e86-4bd6-af51-acbcdf4e6571</value>
+				<value>GUID fb153109-7df6-4c34-86de-a2946a38db37</value>
+				<value>GUID f5496de0-278a-4be4-a5b1-cb8d945a92c3</value>
+				<value>GUID 22fb4e4d-b3b6-41fc-927e-c276b6809ec2</value>
+				<value>GUID 84315d00-7bbf-418b-9200-7386119a26e9</value>
 				<value>GUID 73570b11-3fad-46bb-ac2e-03289560fe0d</value>
 				<value>GUID 377fc2d4-7c96-45db-b1de-cf0483a51650</value>
 				<value>GUID 37639c0a-ad3e-4d0d-b24f-152b0941cb87</value>
 			</AggregatesList>
 		</IClass>
 		<IAttribute type="e">
-			<_id type="a">GUID 540859c2-3708-4e73-95fb-cb27793e2dcf</_id>
+			<_id type="a">GUID 7457c187-d607-4ef1-b450-d058a1d474ae</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">Codigo_Producto</_name>
-			<_modifiedTimeWeak type="a">7.28.2021::17:28:59</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::17:28:59</_modifiedTime>
+			<_name type="a">id_producto</_name>
+			<_displayName type="a">id_producto</_displayName>
+			<_modifiedTimeWeak type="a">7.28.2021::5:35:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:35:46</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -7846,17 +7853,18 @@
 			<_isConstant type="a">0</_isConstant>
 		</IAttribute>
 		<IAttribute type="e">
-			<_id type="a">GUID c0580832-cfe5-4304-a65d-46456cca8c1f</_id>
+			<_id type="a">GUID c15fc699-1e86-4bd6-af51-acbcdf4e6571</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">NombreProducto</_name>
-			<_modifiedTimeWeak type="a">7.28.2021::17:29:9</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::17:29:9</_modifiedTime>
+			<_name type="a">codigo_producto</_name>
+			<_displayName type="a">codigo_producto</_displayName>
+			<_modifiedTimeWeak type="a">7.28.2021::5:35:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:35:57</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
 					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
-					<_hname type="a">int</_hname>
-					<_hid type="a">GUID 6024c6ab-fe9e-402e-954f-27aca6d3b5e4</_hid>
+					<_hname type="a">char</_hname>
+					<_hid type="a">GUID 717461b3-278b-47c8-9526-c62c7be55b14</_hid>
 				</IHandle>
 			</_typeOf>
 			<_isOrdered type="a">0</_isOrdered>
@@ -7866,17 +7874,18 @@
 			<_isConstant type="a">0</_isConstant>
 		</IAttribute>
 		<IAttribute type="e">
-			<_id type="a">GUID 5aaae819-f879-462b-a245-688969350616</_id>
+			<_id type="a">GUID fb153109-7df6-4c34-86de-a2946a38db37</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">PrecioProducto</_name>
-			<_modifiedTimeWeak type="a">7.28.2021::17:29:18</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::17:29:18</_modifiedTime>
+			<_name type="a">nombre_producto</_name>
+			<_displayName type="a">nombre_producto</_displayName>
+			<_modifiedTimeWeak type="a">7.28.2021::5:36:8</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:36:8</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
 					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
-					<_hname type="a">int</_hname>
-					<_hid type="a">GUID 6024c6ab-fe9e-402e-954f-27aca6d3b5e4</_hid>
+					<_hname type="a">char</_hname>
+					<_hid type="a">GUID 717461b3-278b-47c8-9526-c62c7be55b14</_hid>
 				</IHandle>
 			</_typeOf>
 			<_isOrdered type="a">0</_isOrdered>
@@ -7886,17 +7895,18 @@
 			<_isConstant type="a">0</_isConstant>
 		</IAttribute>
 		<IAttribute type="e">
-			<_id type="a">GUID 2ce047a2-b693-44df-8ab9-80d2f8ad427f</_id>
+			<_id type="a">GUID f5496de0-278a-4be4-a5b1-cb8d945a92c3</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">CategoriaProducto</_name>
-			<_modifiedTimeWeak type="a">7.28.2021::17:29:42</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::17:29:42</_modifiedTime>
+			<_name type="a">descripcion</_name>
+			<_displayName type="a">descripcion</_displayName>
+			<_modifiedTimeWeak type="a">7.28.2021::5:36:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:36:41</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
 					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
-					<_hname type="a">int</_hname>
-					<_hid type="a">GUID 6024c6ab-fe9e-402e-954f-27aca6d3b5e4</_hid>
+					<_hname type="a">char*</_hname>
+					<_hid type="a">GUID a1f818e6-c022-42d5-bbc0-075bf073b055</_hid>
 				</IHandle>
 			</_typeOf>
 			<_isOrdered type="a">0</_isOrdered>
@@ -7906,11 +7916,33 @@
 			<_isConstant type="a">0</_isConstant>
 		</IAttribute>
 		<IAttribute type="e">
-			<_id type="a">GUID 742b7a82-2d47-4a00-8125-929a231103ab</_id>
+			<_id type="a">GUID 22fb4e4d-b3b6-41fc-927e-c276b6809ec2</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">Descripcion</_name>
-			<_modifiedTimeWeak type="a">7.28.2021::17:29:50</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::17:29:50</_modifiedTime>
+			<_name type="a">precio_producto</_name>
+			<_displayName type="a">precio_producto</_displayName>
+			<_modifiedTimeWeak type="a">7.28.2021::5:37:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:37:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">float</_hname>
+					<_hid type="a">GUID 49a1890b-9064-409b-bd56-859d88083577</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_isReferenceAttr type="a">0</_isReferenceAttr>
+			<_isConstant type="a">0</_isConstant>
+		</IAttribute>
+		<IAttribute type="e">
+			<_id type="a">GUID 84315d00-7bbf-418b-9200-7386119a26e9</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">categoria_id</_name>
+			<_displayName type="a">categoria_id</_displayName>
+			<_modifiedTimeWeak type="a">7.28.2021::5:37:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:37:13</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -7979,7 +8011,7 @@
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\inventario.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\inventario.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::inventario</_hsubsystem>
 					<_hname type="a">Inventario</_hname>
 					<_hid type="a">GUID ece5ec83-4cf9-4bbe-9cf0-216b8822f609</_hid>
@@ -7988,7 +8020,7 @@
 			<_inverse type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\inventario.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\inventario.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::inventario</_hsubsystem>
 					<_hclass type="a">Inventario</_hclass>
 					<_hname type="a">itsProducto</_hname>
@@ -8015,15 +8047,15 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">7.28.2021::18:7:57</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.28.2021::5:39:19</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e1c50e52-860a-48d2-82ae-bf2f134802cb</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.28.2021::17:32:2</_modifiedTime>
-			<_lastID type="a">5</_lastID>
+			<_modifiedTime type="a">7.28.2021::5:39:19</_modifiedTime>
+			<_lastID type="a">10</_lastID>
 			<weakCGTime type="a">7.28.2021::18:7:57</weakCGTime>
 			<strongCGTime type="a">7.28.2021::6:53:3</strongCGTime>
 			<_itsStateChart type="r">
@@ -8033,10 +8065,11 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
 				<value>GUID ec391622-769e-467e-afea-00109a784b7a</value>
-				<value>GUID ca0c772a-065c-4807-b750-84d0f963795f</value>
-				<value>GUID 1b46c363-e696-4beb-9f48-4bc48ed36ab7</value>
-				<value>GUID a6f3f571-160b-47f4-ac64-51ab4f888a45</value>
-				<value>GUID 1a539d52-4754-438c-90ea-fb59d03f6e98</value>
+				<value>GUID 9b973c4d-8545-4457-bb90-2bbe49d7ea1c</value>
+				<value>GUID c8992af0-1509-4ee8-9a19-360d310828d1</value>
+				<value>GUID d0d42bd0-2d18-40f9-9eaa-7818199f4064</value>
+				<value>GUID e7e4bd28-b3bc-4f20-b80b-7bcdbc74fbae</value>
+				<value>GUID f04c697f-5846-401a-8276-790b8549450c</value>
 				<value>GUID fef4be97-2bd9-4f3a-946e-e0daf6786fe1</value>
 			</AggregatesList>
 		</IClass>
@@ -8060,11 +8093,33 @@
 			</_dependent>
 		</IDependency>
 		<IAttribute type="e">
-			<_id type="a">GUID ca0c772a-065c-4807-b750-84d0f963795f</_id>
+			<_id type="a">GUID 9b973c4d-8545-4457-bb90-2bbe49d7ea1c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">id_detalle</_name>
+			<_displayName type="a">id_detalle</_displayName>
+			<_modifiedTimeWeak type="a">7.28.2021::5:38:27</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:38:27</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">int</_hname>
+					<_hid type="a">GUID 6024c6ab-fe9e-402e-954f-27aca6d3b5e4</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_isReferenceAttr type="a">0</_isReferenceAttr>
+			<_isConstant type="a">0</_isConstant>
+		</IAttribute>
+		<IAttribute type="e">
+			<_id type="a">GUID c8992af0-1509-4ee8-9a19-360d310828d1</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">id_venta</_name>
-			<_modifiedTimeWeak type="a">7.28.2021::17:31:35</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::17:31:35</_modifiedTime>
+			<_displayName type="a">id_venta</_displayName>
+			<_modifiedTimeWeak type="a">7.28.2021::5:38:36</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:38:36</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -8080,11 +8135,12 @@
 			<_isConstant type="a">0</_isConstant>
 		</IAttribute>
 		<IAttribute type="e">
-			<_id type="a">GUID 1b46c363-e696-4beb-9f48-4bc48ed36ab7</_id>
+			<_id type="a">GUID d0d42bd0-2d18-40f9-9eaa-7818199f4064</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">id_cliente</_name>
-			<_modifiedTimeWeak type="a">7.28.2021::17:31:40</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::17:31:40</_modifiedTime>
+			<_name type="a">id_producto</_name>
+			<_displayName type="a">id_producto</_displayName>
+			<_modifiedTimeWeak type="a">7.28.2021::5:38:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:38:50</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -8100,11 +8156,12 @@
 			<_isConstant type="a">0</_isConstant>
 		</IAttribute>
 		<IAttribute type="e">
-			<_id type="a">GUID a6f3f571-160b-47f4-ac64-51ab4f888a45</_id>
+			<_id type="a">GUID e7e4bd28-b3bc-4f20-b80b-7bcdbc74fbae</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">FechaVenta</_name>
-			<_modifiedTimeWeak type="a">7.28.2021::17:31:56</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::17:31:56</_modifiedTime>
+			<_name type="a">cantidad</_name>
+			<_displayName type="a">cantidad</_displayName>
+			<_modifiedTimeWeak type="a">7.28.2021::5:38:58</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:38:58</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -8120,17 +8177,18 @@
 			<_isConstant type="a">0</_isConstant>
 		</IAttribute>
 		<IAttribute type="e">
-			<_id type="a">GUID 1a539d52-4754-438c-90ea-fb59d03f6e98</_id>
+			<_id type="a">GUID f04c697f-5846-401a-8276-790b8549450c</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">nroVenta</_name>
-			<_modifiedTimeWeak type="a">7.28.2021::17:32:2</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::17:32:2</_modifiedTime>
+			<_name type="a">precio_unitario</_name>
+			<_displayName type="a">precio_unitario</_displayName>
+			<_modifiedTimeWeak type="a">7.28.2021::5:39:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:39:19</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
 					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
-					<_hname type="a">int</_hname>
-					<_hid type="a">GUID 6024c6ab-fe9e-402e-954f-27aca6d3b5e4</_hid>
+					<_hname type="a">float</_hname>
+					<_hid type="a">GUID 49a1890b-9064-409b-bd56-859d88083577</_hid>
 				</IHandle>
 			</_typeOf>
 			<_isOrdered type="a">0</_isOrdered>
@@ -8178,15 +8236,15 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">7.28.2021::5:27:53</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.28.2021::5:30:4</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e1c50e52-860a-48d2-82ae-bf2f134802cb</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.28.2021::5:27:53</_modifiedTime>
-			<_lastID type="a">6</_lastID>
+			<_modifiedTime type="a">7.28.2021::5:30:4</_modifiedTime>
+			<_lastID type="a">7</_lastID>
 			<weakCGTime type="a">7.28.2021::18:7:57</weakCGTime>
 			<strongCGTime type="a">7.28.2021::6:53:7</strongCGTime>
 			<_itsStateChart type="r">

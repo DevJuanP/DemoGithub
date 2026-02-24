@@ -25,7 +25,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">7.28.2021::5:21:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.28.2021::5:29:29</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -33,9 +33,9 @@
 					<_hid type="a">GUID 6d1e2504-ac76-447c-ac6c-add615fd9eae</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.28.2021::5:21:47</_modifiedTime>
+			<_modifiedTime type="a">7.28.2021::6:29:12</_modifiedTime>
 			<_lastID type="a">9</_lastID>
-			<weakCGTime type="a">7.28.2021::5:21:0</weakCGTime>
+			<weakCGTime type="a">7.28.2021::5:29:29</weakCGTime>
 			<strongCGTime type="a">7.28.2021::5:12:15</strongCGTime>
 			<_defaultComposite type="s">GUID 0675ffca-01f3-467f-9f1f-91c60d626123</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -435,7 +435,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hclass type="a">Administrador</_hclass>
 					<_hname type="a">itsMantener inventarios</_hname>
@@ -490,7 +490,7 @@
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hclass type="a">Mantener inventarios</_hclass>
 					<_hname type="a">itsAdministrador</_hname>
@@ -614,7 +614,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hclass type="a">Administrador</_hclass>
 					<_hname type="a">itsGenerar reportes</_hname>
@@ -669,7 +669,7 @@
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hclass type="a">Generar reportes</_hclass>
 					<_hname type="a">itsAdministrador</_hname>
@@ -793,7 +793,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hclass type="a">Vendedor</_hclass>
 					<_hname type="a">itsRegistro de ventas</_hname>
@@ -848,7 +848,7 @@
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hclass type="a">Registro de ventas</_hclass>
 					<_hname type="a">itsVendedor</_hname>
@@ -972,7 +972,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hclass type="a">Vendedor</_hclass>
 					<_hname type="a">itsGestionar pedidos</_hname>
@@ -1027,7 +1027,7 @@
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hclass type="a">Gestionar pedidos</_hclass>
 					<_hname type="a">itsVendedor</_hname>
@@ -1151,7 +1151,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hclass type="a">Mantener cliente</_hclass>
 					<_hname type="a">Gestionar pedidos</_hname>
@@ -1216,7 +1216,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hclass type="a">Registro de ventas</_hclass>
 					<_hname type="a">Calcular tarifa</_hname>
@@ -1278,7 +1278,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hclass type="a">Registro de ventas</_hclass>
 					<_hname type="a">Emisi%F3n de comprobante</_hname>
@@ -1340,7 +1340,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hclass type="a">Gestionar pedidos</_hclass>
 					<_hname type="a">Validar el stock</_hname>
@@ -1402,7 +1402,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\seguridad.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\seguridad.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::seguridad</_hsubsystem>
 					<_hclass type="a">USUARIO</_hclass>
 					<_hname type="a">itsIngresar al sistema_1</_hname>
@@ -1457,7 +1457,7 @@
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\seguridad.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\seguridad.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::seguridad</_hsubsystem>
 					<_hclass type="a">Ingresar al sistema</_hclass>
 					<_hname type="a">itsUSUARIO_1</_hname>
@@ -1581,7 +1581,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hname type="a">Administrador</_hname>
 					<_hid type="a">GUID 69eb95f4-b664-45f4-8024-caf581bbbfa8</_hid>
@@ -1634,7 +1634,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hname type="a">Vendedor</_hname>
 					<_hid type="a">GUID 9b7b143e-189d-4fde-b5f3-6321b566b69d</_hid>
@@ -1722,7 +1722,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hname type="a">Mantener inventarios</_hname>
 					<_hid type="a">GUID bf90fac6-6730-49ae-9532-4de267e1a8e4</_hid>
@@ -1810,7 +1810,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hname type="a">Generar reportes</_hname>
 					<_hid type="a">GUID e476cee0-c9ee-4458-8ed4-433eb8647d12</_hid>
@@ -1898,7 +1898,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hname type="a">Registro de ventas</_hname>
 					<_hid type="a">GUID 8dd18aca-325c-447d-924f-c9f3bf86e610</_hid>
@@ -1986,7 +1986,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hname type="a">Gestionar pedidos</_hname>
 					<_hid type="a">GUID 3df80621-2b7c-4f89-861a-12367789c7e6</_hid>
@@ -2074,7 +2074,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\pedidos.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedidos.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::pedidos</_hsubsystem>
 					<_hname type="a">Mantener cliente</_hname>
 					<_hid type="a">GUID c725ab54-7afb-4eb5-96b7-a4f37ce76690</_hid>
@@ -2162,7 +2162,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\reutilizables.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\reutilizables.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::reutilizables</_hsubsystem>
 					<_hname type="a">Calcular tarifa</_hname>
 					<_hid type="a">GUID 2a026b6a-c8b7-4f46-b7e7-e9378c9ccc5f</_hid>
@@ -2250,7 +2250,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\reutilizables.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\reutilizables.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::reutilizables</_hsubsystem>
 					<_hname type="a">Emisi%F3n de comprobante</_hname>
 					<_hid type="a">GUID 0fa0f099-35fc-4065-a616-751addff6f27</_hid>
@@ -2338,7 +2338,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\reutilizables.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\reutilizables.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::reutilizables</_hsubsystem>
 					<_hname type="a">Validar el stock</_hname>
 					<_hid type="a">GUID 17db6dbd-b903-4b8a-893c-1bb931a6e9fb</_hid>
@@ -2391,7 +2391,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
-					<_hfilename type="a">.\seguridad.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\seguridad.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::seguridad</_hsubsystem>
 					<_hname type="a">USUARIO</_hname>
 					<_hid type="a">GUID 7d7e2fab-7df4-4fae-b48a-f4795c5eda68</_hid>
@@ -2479,7 +2479,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\seguridad.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\seguridad.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU::seguridad</_hsubsystem>
 					<_hname type="a">Ingresar al sistema</_hname>
 					<_hid type="a">GUID 655a0b81-cd71-45e8-b43b-692dd02bc48f</_hid>
@@ -3136,7 +3136,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hfilename type="a">.\cliente.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\cliente.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">cliente</_hname>
 					<_hid type="a">GUID edb86d46-023d-4482-a134-8d2a86c994f3</_hid>
@@ -3224,7 +3224,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hfilename type="a">.\inventario.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\inventario.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">inventario</_hname>
 					<_hid type="a">GUID 3c015ee1-493a-4727-834b-643bd5eb7157</_hid>
@@ -3312,7 +3312,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hfilename type="a">.\pedido.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedido.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">pedido</_hname>
 					<_hid type="a">GUID e7e09610-62ab-484c-9019-f3d1e982db99</_hid>
@@ -3400,7 +3400,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hfilename type="a">.\reportes.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\reportes.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">reportes</_hname>
 					<_hid type="a">GUID 3fd3f892-2bde-4143-83be-6a72724d1a85</_hid>
@@ -3488,7 +3488,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hfilename type="a">.\seguridad_1.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\seguridad_1.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">seguridad</_hname>
 					<_hid type="a">GUID 18a781e1-2ae2-4ad4-b084-50013a4257d2</_hid>
@@ -3576,7 +3576,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hfilename type="a">.\ventas.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">ventas</_hname>
 					<_hid type="a">GUID 9e5d7a91-3e1a-4b3c-85f0-7edc1f35763b</_hid>
@@ -3629,7 +3629,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\pedido.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedido.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::pedido</_hsubsystem>
 					<_hname type="a">inventario</_hname>
 					<_hid type="a">GUID 9968d8e2-0f7e-4b62-ace7-b21adb600104</_hid>
@@ -3690,7 +3690,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\ventas.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::ventas</_hsubsystem>
 					<_hname type="a">seguridad</_hname>
 					<_hid type="a">GUID 2062f44a-e8a8-42de-b3a0-6fe758f076d2</_hid>
@@ -3751,7 +3751,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\pedido.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\pedido.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::pedido</_hsubsystem>
 					<_hname type="a">seguridad</_hname>
 					<_hid type="a">GUID a15734cd-ec6c-487f-8eee-562973370756</_hid>
@@ -3812,7 +3812,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\cliente.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\cliente.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::cliente</_hsubsystem>
 					<_hname type="a">seguridad</_hname>
 					<_hid type="a">GUID 6e8270a8-57dd-4eeb-853e-70f375adc22f</_hid>
@@ -3873,7 +3873,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\inventario.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\inventario.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::inventario</_hsubsystem>
 					<_hname type="a">seguridad</_hname>
 					<_hid type="a">GUID 2d765929-068e-4263-8eee-cc05780c6f68</_hid>
@@ -3934,7 +3934,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\reportes.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\reportes.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::reportes</_hsubsystem>
 					<_hname type="a">seguridad</_hname>
 					<_hid type="a">GUID 457d6ec6-6145-4925-aa7e-977fcdd4deb5</_hid>
@@ -4135,8 +4135,8 @@
 			</_properties>
 			<_name type="a">Modelo Conceptual</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::5:28:5</_modifiedTime>
-			<_lastModifiedTime type="a">7.28.2021::5:28:5</_lastModifiedTime>
+			<_modifiedTime type="a">7.28.2021::6:6:52</_modifiedTime>
+			<_lastModifiedTime type="a">7.28.2021::6:6:52</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -4331,7 +4331,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\ventas.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::ventas</_hsubsystem>
 					<_hname type="a">Cliente</_hname>
 					<_hid type="a">GUID 114e2578-6f82-4f53-80c1-0bb758772bb7</_hid>
@@ -4384,7 +4384,7 @@
 			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
 			<m_nNameFormat type="a">0</m_nNameFormat>
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-			<frameset type="a">&lt;frameset rows=33%25,49%25,18%25&gt;
+			<frameset type="a">&lt;frameset rows=33%25,55%25,12%25&gt;
 &lt;frame name=StereotypeBitmap,D:\ANALISIS$SPACEY$SPACEDISE%D1O$SPACEDE$SPACESISTEMAS$SPACEII\profiles$SPACERhap\AnalysisProfile\images_analysis\entity.jpg&gt;
 &lt;frame name=AttributeListCompartment&gt;
 &lt;frame name=OperationListCompartment&gt;</frameset>
@@ -4412,55 +4412,72 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IAttribute</_hm2Class>
-							<_hfilename type="a">.\ventas.sbsx</_hfilename>
+							<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 							<_hsubsystem type="a">MA::ventas</_hsubsystem>
 							<_hclass type="a">Cliente</_hclass>
-							<_hname type="a">apellido</_hname>
-							<_hid type="a">GUID 08017e41-3cf6-4168-9d39-44265388baf8</_hid>
+							<_hname type="a">telefono</_hname>
+							<_hid type="a">GUID 09e64def-221f-46f1-a52a-1781d4d9bff0</_hid>
 						</IHandle>
 					
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IAttribute</_hm2Class>
-							<_hfilename type="a">.\ventas.sbsx</_hfilename>
-							<_hsubsystem type="a">MA::ventas</_hsubsystem>
-							<_hclass type="a">Cliente</_hclass>
-							<_hname type="a">telf</_hname>
-							<_hid type="a">GUID fcea31a9-e47c-4601-99c4-aca042a711c7</_hid>
-						</IHandle>
-					
-					
-						<IHandle type="e">
-							<_hm2Class type="a">IAttribute</_hm2Class>
-							<_hfilename type="a">.\ventas.sbsx</_hfilename>
+							<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 							<_hsubsystem type="a">MA::ventas</_hsubsystem>
 							<_hclass type="a">Cliente</_hclass>
 							<_hname type="a">dni</_hname>
-							<_hid type="a">GUID 8ce946ef-f8e4-4a65-b2c4-e324a2b7b17c</_hid>
+							<_hid type="a">GUID deb43214-9cea-4ec6-9a31-82bdde0091af</_hid>
 						</IHandle>
 					
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IAttribute</_hm2Class>
-							<_hfilename type="a">.\ventas.sbsx</_hfilename>
+							<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 							<_hsubsystem type="a">MA::ventas</_hsubsystem>
 							<_hclass type="a">Cliente</_hclass>
 							<_hname type="a">correo</_hname>
-							<_hid type="a">GUID f75de5ef-b441-408c-aa49-cac05852bd58</_hid>
+							<_hid type="a">GUID 7aae6546-aa58-4e70-a4be-23c1a05c7702</_hid>
 						</IHandle>
 					
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IAttribute</_hm2Class>
-							<_hfilename type="a">.\ventas.sbsx</_hfilename>
+							<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
+							<_hsubsystem type="a">MA::ventas</_hsubsystem>
+							<_hclass type="a">Cliente</_hclass>
+							<_hname type="a">apellido</_hname>
+							<_hid type="a">GUID 16084fc8-35cc-45c2-bd87-fb12a93a3e49</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IAttribute</_hm2Class>
+							<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 							<_hsubsystem type="a">MA::ventas</_hsubsystem>
 							<_hclass type="a">Cliente</_hclass>
 							<_hname type="a">nombre</_hname>
-							<_hid type="a">GUID 74cb6587-f7e0-48cf-9d1a-31dab0cbb226</_hid>
+							<_hid type="a">GUID 431aeff0-f2c6-4232-b7d8-e23715dabcbf</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IAttribute</_hm2Class>
+							<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
+							<_hsubsystem type="a">MA::ventas</_hsubsystem>
+							<_hclass type="a">Cliente</_hclass>
+							<_hname type="a">id_cliente</_hname>
+							<_hid type="a">GUID 98d39d2f-0097-4c76-b091-140d90a2d712</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Items>
+			<_itemValueOfFontPropertiesMapCount type="a">6</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 		</CGICompartment>
 		<CGICompartment type="e">
 			<_id type="a">GUID 11b35dce-731c-4a34-b823-9d437b5a40f8</_id>
@@ -4542,7 +4559,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\ventas.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::ventas</_hsubsystem>
 					<_hname type="a">DetalleDeVenta</_hname>
 					<_hid type="a">GUID d31c04f6-341e-4a5d-a36d-dec8e0064eb4</_hid>
@@ -4595,7 +4612,7 @@
 			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
 			<m_nNameFormat type="a">0</m_nNameFormat>
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-			<frameset type="a">&lt;frameset rows=33%25,33%25,33%25&gt;
+			<frameset type="a">&lt;frameset rows=33%25,47%25,20%25&gt;
 &lt;frame name=StereotypeBitmap,D:\ANALISIS$SPACEY$SPACEDISE%D1O$SPACEDE$SPACESISTEMAS$SPACEII\profiles$SPACERhap\AnalysisProfile\images_analysis\entity.jpg&gt;
 &lt;frame name=AttributeListCompartment&gt;
 &lt;frame name=OperationListCompartment&gt;</frameset>
@@ -4623,46 +4640,57 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IAttribute</_hm2Class>
-							<_hfilename type="a">.\ventas.sbsx</_hfilename>
+							<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 							<_hsubsystem type="a">MA::ventas</_hsubsystem>
 							<_hclass type="a">DetalleDeVenta</_hclass>
-							<_hname type="a">id_cliente</_hname>
-							<_hid type="a">GUID 1b46c363-e696-4beb-9f48-4bc48ed36ab7</_hid>
+							<_hname type="a">id_detalle</_hname>
+							<_hid type="a">GUID 9b973c4d-8545-4457-bb90-2bbe49d7ea1c</_hid>
 						</IHandle>
 					
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IAttribute</_hm2Class>
-							<_hfilename type="a">.\ventas.sbsx</_hfilename>
+							<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 							<_hsubsystem type="a">MA::ventas</_hsubsystem>
 							<_hclass type="a">DetalleDeVenta</_hclass>
-							<_hname type="a">FechaVenta</_hname>
-							<_hid type="a">GUID a6f3f571-160b-47f4-ac64-51ab4f888a45</_hid>
+							<_hname type="a">precio_unitario</_hname>
+							<_hid type="a">GUID f04c697f-5846-401a-8276-790b8549450c</_hid>
 						</IHandle>
 					
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IAttribute</_hm2Class>
-							<_hfilename type="a">.\ventas.sbsx</_hfilename>
+							<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
+							<_hsubsystem type="a">MA::ventas</_hsubsystem>
+							<_hclass type="a">DetalleDeVenta</_hclass>
+							<_hname type="a">id_producto</_hname>
+							<_hid type="a">GUID d0d42bd0-2d18-40f9-9eaa-7818199f4064</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IAttribute</_hm2Class>
+							<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 							<_hsubsystem type="a">MA::ventas</_hsubsystem>
 							<_hclass type="a">DetalleDeVenta</_hclass>
 							<_hname type="a">id_venta</_hname>
-							<_hid type="a">GUID ca0c772a-065c-4807-b750-84d0f963795f</_hid>
+							<_hid type="a">GUID c8992af0-1509-4ee8-9a19-360d310828d1</_hid>
 						</IHandle>
 					
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IAttribute</_hm2Class>
-							<_hfilename type="a">.\ventas.sbsx</_hfilename>
+							<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 							<_hsubsystem type="a">MA::ventas</_hsubsystem>
 							<_hclass type="a">DetalleDeVenta</_hclass>
-							<_hname type="a">nroVenta</_hname>
-							<_hid type="a">GUID 1a539d52-4754-438c-90ea-fb59d03f6e98</_hid>
+							<_hname type="a">cantidad</_hname>
+							<_hid type="a">GUID e7e4bd28-b3bc-4f20-b80b-7bcdbc74fbae</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Items>
-			<_itemValueOfFontPropertiesMapCount type="a">4</_itemValueOfFontPropertiesMapCount>
+			<_itemValueOfFontPropertiesMapCount type="a">5</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
@@ -4748,7 +4776,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\ventas.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::ventas</_hsubsystem>
 					<_hname type="a">Venta</_hname>
 					<_hid type="a">GUID e18208a5-2a05-472f-a0a9-f26722f61299</_hid>
@@ -4829,17 +4857,17 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IAttribute</_hm2Class>
-							<_hfilename type="a">.\ventas.sbsx</_hfilename>
+							<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 							<_hsubsystem type="a">MA::ventas</_hsubsystem>
 							<_hclass type="a">Venta</_hclass>
-							<_hname type="a">id_cliente</_hname>
-							<_hid type="a">GUID 67cd70e9-dcab-4695-84bd-28fd7f035242</_hid>
+							<_hname type="a">attribute_5</_hname>
+							<_hid type="a">GUID bb66ff34-e995-45ed-b616-8dc8513b4f1e</_hid>
 						</IHandle>
 					
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IAttribute</_hm2Class>
-							<_hfilename type="a">.\ventas.sbsx</_hfilename>
+							<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 							<_hsubsystem type="a">MA::ventas</_hsubsystem>
 							<_hclass type="a">Venta</_hclass>
 							<_hname type="a">fecha_venta</_hname>
@@ -4849,15 +4877,30 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IAttribute</_hm2Class>
-							<_hfilename type="a">.\ventas.sbsx</_hfilename>
+							<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 							<_hsubsystem type="a">MA::ventas</_hsubsystem>
 							<_hclass type="a">Venta</_hclass>
-							<_hname type="a">attribute_5</_hname>
-							<_hid type="a">GUID bb66ff34-e995-45ed-b616-8dc8513b4f1e</_hid>
+							<_hname type="a">id_cliente</_hname>
+							<_hid type="a">GUID 67cd70e9-dcab-4695-84bd-28fd7f035242</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IAttribute</_hm2Class>
+							<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
+							<_hsubsystem type="a">MA::ventas</_hsubsystem>
+							<_hclass type="a">Venta</_hclass>
+							<_hname type="a">monto_total</_hname>
+							<_hid type="a">GUID e4b76847-329a-4867-9917-18c44995ac14</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Items>
+			<_itemValueOfFontPropertiesMapCount type="a">4</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 		</CGICompartment>
 		<CGICompartment type="e">
 			<_id type="a">GUID ce22c98f-3506-4d27-b8c2-91c8cfda6d29</_id>
@@ -4917,7 +4960,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\ventas.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::ventas</_hsubsystem>
 					<_hclass type="a">Venta</_hclass>
 					<_hname type="a">itsProducto</_hname>
@@ -4972,7 +5015,7 @@
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\ventas.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::ventas</_hsubsystem>
 					<_hclass type="a">Producto</_hclass>
 					<_hname type="a">itsVenta</_hname>
@@ -5137,7 +5180,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\ventas.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::ventas</_hsubsystem>
 					<_hclass type="a">Cliente</_hclass>
 					<_hname type="a">itsVenta</_hname>
@@ -5192,7 +5235,7 @@
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\ventas.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::ventas</_hsubsystem>
 					<_hclass type="a">Venta</_hclass>
 					<_hname type="a">itsCliente</_hname>
@@ -5322,7 +5365,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\ventas.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::ventas</_hsubsystem>
 					<_hclass type="a">DetalleDeVenta</_hclass>
 					<_hname type="a">itsProducto</_hname>
@@ -5447,7 +5490,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\ventas.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::ventas</_hsubsystem>
 					<_hname type="a">Producto</_hname>
 					<_hid type="a">GUID 24dc7630-ba60-4078-a1de-222d4363b7bf</_hid>
@@ -5500,7 +5543,7 @@
 			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
 			<m_nNameFormat type="a">0</m_nNameFormat>
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-			<frameset type="a">&lt;frameset rows=33%25,33%25,33%25&gt;
+			<frameset type="a">&lt;frameset rows=33%25,55%25,12%25&gt;
 &lt;frame name=StereotypeBitmap,D:\ANALISIS$SPACEY$SPACEDISE%D1O$SPACEDE$SPACESISTEMAS$SPACEII\profiles$SPACERhap\AnalysisProfile\images_analysis\entity.jpg&gt;
 &lt;frame name=AttributeListCompartment&gt;
 &lt;frame name=OperationListCompartment&gt;</frameset>
@@ -5528,56 +5571,67 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IAttribute</_hm2Class>
-							<_hfilename type="a">.\ventas.sbsx</_hfilename>
+							<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 							<_hsubsystem type="a">MA::ventas</_hsubsystem>
 							<_hclass type="a">Producto</_hclass>
-							<_hname type="a">Codigo_Producto</_hname>
-							<_hid type="a">GUID 540859c2-3708-4e73-95fb-cb27793e2dcf</_hid>
+							<_hname type="a">id_producto</_hname>
+							<_hid type="a">GUID 7457c187-d607-4ef1-b450-d058a1d474ae</_hid>
 						</IHandle>
 					
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IAttribute</_hm2Class>
-							<_hfilename type="a">.\ventas.sbsx</_hfilename>
+							<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 							<_hsubsystem type="a">MA::ventas</_hsubsystem>
 							<_hclass type="a">Producto</_hclass>
-							<_hname type="a">PrecioProducto</_hname>
-							<_hid type="a">GUID 5aaae819-f879-462b-a245-688969350616</_hid>
+							<_hname type="a">nombre_producto</_hname>
+							<_hid type="a">GUID fb153109-7df6-4c34-86de-a2946a38db37</_hid>
 						</IHandle>
 					
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IAttribute</_hm2Class>
-							<_hfilename type="a">.\ventas.sbsx</_hfilename>
+							<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 							<_hsubsystem type="a">MA::ventas</_hsubsystem>
 							<_hclass type="a">Producto</_hclass>
-							<_hname type="a">CategoriaProducto</_hname>
-							<_hid type="a">GUID 2ce047a2-b693-44df-8ab9-80d2f8ad427f</_hid>
+							<_hname type="a">codigo_producto</_hname>
+							<_hid type="a">GUID c15fc699-1e86-4bd6-af51-acbcdf4e6571</_hid>
 						</IHandle>
 					
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IAttribute</_hm2Class>
-							<_hfilename type="a">.\ventas.sbsx</_hfilename>
+							<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 							<_hsubsystem type="a">MA::ventas</_hsubsystem>
 							<_hclass type="a">Producto</_hclass>
-							<_hname type="a">Descripcion</_hname>
-							<_hid type="a">GUID 742b7a82-2d47-4a00-8125-929a231103ab</_hid>
+							<_hname type="a">categoria_id</_hname>
+							<_hid type="a">GUID 84315d00-7bbf-418b-9200-7386119a26e9</_hid>
 						</IHandle>
 					
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IAttribute</_hm2Class>
-							<_hfilename type="a">.\ventas.sbsx</_hfilename>
+							<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 							<_hsubsystem type="a">MA::ventas</_hsubsystem>
 							<_hclass type="a">Producto</_hclass>
-							<_hname type="a">NombreProducto</_hname>
-							<_hid type="a">GUID c0580832-cfe5-4304-a65d-46456cca8c1f</_hid>
+							<_hname type="a">precio_producto</_hname>
+							<_hid type="a">GUID 22fb4e4d-b3b6-41fc-927e-c276b6809ec2</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IAttribute</_hm2Class>
+							<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
+							<_hsubsystem type="a">MA::ventas</_hsubsystem>
+							<_hclass type="a">Producto</_hclass>
+							<_hname type="a">descripcion</_hname>
+							<_hid type="a">GUID f5496de0-278a-4be4-a5b1-cb8d945a92c3</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Items>
-			<_itemValueOfFontPropertiesMapCount type="a">5</_itemValueOfFontPropertiesMapCount>
+			<_itemValueOfFontPropertiesMapCount type="a">6</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
@@ -5664,7 +5718,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\inventario.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\inventario.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::inventario</_hsubsystem>
 					<_hname type="a">Inventario</_hname>
 					<_hid type="a">GUID ece5ec83-4cf9-4bbe-9cf0-216b8822f609</_hid>
@@ -5717,7 +5771,7 @@
 			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
 			<m_nNameFormat type="a">0</m_nNameFormat>
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-			<frameset type="a">&lt;frameset rows=33%25,33%25,33%25&gt;
+			<frameset type="a">&lt;frameset rows=33%25,42%25,25%25&gt;
 &lt;frame name=StereotypeBitmap,D:\ANALISIS$SPACEY$SPACEDISE%D1O$SPACEDE$SPACESISTEMAS$SPACEII\profiles$SPACERhap\AnalysisProfile\images_analysis\entity.jpg&gt;
 &lt;frame name=AttributeListCompartment&gt;
 &lt;frame name=OperationListCompartment&gt;</frameset>
@@ -5745,36 +5799,47 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IAttribute</_hm2Class>
-							<_hfilename type="a">.\inventario.sbsx</_hfilename>
+							<_hfilename type="a">.\..\DemoGithub_rpy\inventario.sbsx</_hfilename>
 							<_hsubsystem type="a">MA::inventario</_hsubsystem>
 							<_hclass type="a">Inventario</_hclass>
-							<_hname type="a">fechaDeActualizacion</_hname>
-							<_hid type="a">GUID f09d6fed-df1e-4195-bc6b-7c1457c970ce</_hid>
+							<_hname type="a">stock_actual</_hname>
+							<_hid type="a">GUID d0d14865-7500-45b8-9e30-a31b9000c5e9</_hid>
 						</IHandle>
 					
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IAttribute</_hm2Class>
-							<_hfilename type="a">.\inventario.sbsx</_hfilename>
+							<_hfilename type="a">.\..\DemoGithub_rpy\inventario.sbsx</_hfilename>
 							<_hsubsystem type="a">MA::inventario</_hsubsystem>
 							<_hclass type="a">Inventario</_hclass>
-							<_hname type="a">productos</_hname>
-							<_hid type="a">GUID 3ef22895-8ccb-43eb-8ffa-431dbe220279</_hid>
+							<_hname type="a">id_producto</_hname>
+							<_hid type="a">GUID cce19036-6e97-4fcc-b574-dbcba7654f11</_hid>
 						</IHandle>
 					
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IAttribute</_hm2Class>
-							<_hfilename type="a">.\inventario.sbsx</_hfilename>
+							<_hfilename type="a">.\..\DemoGithub_rpy\inventario.sbsx</_hfilename>
+							<_hsubsystem type="a">MA::inventario</_hsubsystem>
+							<_hclass type="a">Inventario</_hclass>
+							<_hname type="a">fecha_actualizacion</_hname>
+							<_hid type="a">GUID 6cc98be5-6f5b-42f0-9496-f72de18097d7</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IAttribute</_hm2Class>
+							<_hfilename type="a">.\..\DemoGithub_rpy\inventario.sbsx</_hfilename>
 							<_hsubsystem type="a">MA::inventario</_hsubsystem>
 							<_hclass type="a">Inventario</_hclass>
 							<_hname type="a">id_inventario</_hname>
-							<_hid type="a">GUID 607301a2-cb84-4bb0-b507-bcfb4be3f888</_hid>
+							<_hid type="a">GUID 64f61612-8282-401a-830b-7ddf185b578e</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Items>
-			<_itemValueOfFontPropertiesMapCount type="a">3</_itemValueOfFontPropertiesMapCount>
+			<_itemValueOfFontPropertiesMapCount type="a">4</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
@@ -5837,7 +5902,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\inventario.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\inventario.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::inventario</_hsubsystem>
 					<_hclass type="a">Inventario</_hclass>
 					<_hname type="a">itsProducto</_hname>
@@ -5892,7 +5957,7 @@
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\ventas.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DemoGithub_rpy\ventas.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::ventas</_hsubsystem>
 					<_hclass type="a">Producto</_hclass>
 					<_hname type="a">itsInventario</_hname>
